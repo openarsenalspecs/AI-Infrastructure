@@ -296,7 +296,7 @@ These projects are a collection of open-source AI infrastructure systems designe
   [https://roxanneardary.com/wattonomy/](https://roxanneardary.com/wattonomy/)   
   An open-source energy decision intelligence platform that models real-world utility system costs, incentives, and long-term performance to deliver transparent, data-driven recommendations.
 
-  ## License & Notice Requirements
+## License & Notice Requirements
 
 AI Infrastructure Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
 By contributing to any project, you agree that your contributions will also be released under this license.
