@@ -5,7 +5,7 @@
 ### Contributors
 This file tracks contributors and their specific contributions to the project.
 
-- **Roxanne Ardary**, **[roxanneardary.com](https://www.roxanneardary.com/)** – June 23, 2026 
+- **Roxanne Ardary**, **[roxanneardary.com](https://www.roxanneardary.com/)** – June 23, 2026  
 Created the repository for AI Infrastructure.  Provided the detailed list of specifications availble.
 
 - **[Add other contributors here]** – [Date]  
