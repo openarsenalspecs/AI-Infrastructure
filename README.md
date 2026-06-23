@@ -1,0 +1,314 @@
+# Open Arsenal AI Infrastructure Specifications
+
+These projects are a collection of open-source AI infrastructure systems designed to be modular, secure, and fully self-hostable, giving users complete control over data and deployment. They provide interoperable AI capabilities such as automation, retrieval, encryption, and identity management for use across a wide range of industries.
+
+## AI Infrastructure Specs
+
+- **ActionCheck**
+  [https://roxanneardary.com/actioncheck/](https://roxanneardary.com/actioncheck/)
+  An open-source civic accountability platform that tracks political promises, voting records, financial disclosures, and conflicts of interest. It helps citizens make informed decisions through transparent data access.
+
+- **Adaptive Materials Engine (AME)**
+  [https://roxanneardary.com/adaptive-materials-engine/](https://roxanneardary.com/adaptive-materials-engine/)
+  An open-source engineering intelligence system that replaces plastic components with sustainable, locally sourced materials. It redesigns systems when direct substitution is not possible.
+
+- **Arq**
+  [https://roxanneardary.com/arq/](https://roxanneardary.com/arq/)
+  Machine intelligence system for understanding, modeling, and evolving software architecture as a living graph of modular structure and system behavior.
+
+- **Axis Juris**
+  [https://roxanneardary.com/axisjuris/](https://roxanneardary.com/axisjuris/)
+  A modular legal intelligence system that analyzes patent law, case law, and jurisdictional regulations. It uses a continuously updated, source-driven knowledge graph.
+
+- **BioFoundry**
+  [https://roxanneardary.com/biofoundry/](https://roxanneardary.com/biofoundry/)
+  An open-source computational biology platform for primer design, genome validation, and CRISPR-aware experimental planning. It enables seamless workflows from DNA sequence input to validated experimental design.
+
+- **AllPost**
+  [https://roxanneardary.com/allpost/](https://roxanneardary.com/allpost/)
+  An open-source, self-hostable social publishing platform that lets users write once and publish across multiple social media networks. It uses a modular, plugin-based architecture.
+
+- **Aurea**
+  [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)
+  An open-source AI-powered security tool that detects and repairs malicious code, breaches, backdoors, and malware in infrastructure.
+
+- **BranchWeb**
+  [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)
+  AI-powered platform turning GitHub/GitLab repositories into interactive, deployable websites.
+
+- **Brightlayer Browser**
+  [https://roxanneardary.com/brightlayerbrowser/](https://roxanneardary.com/brightlayerbrowser/)
+  An open-source, AI-native, stateless web browser built with end-to-end encryption, sandboxed execution, and a strict privacy-first architecture. It eliminates tracking and puts full control back in the hands of the user.
+
+- **Brightlayer Plugin**
+  [https://roxanneardary.com/brightlayerplugin/](https://roxanneardary.com/brightlayerplugin/)
+  An open-source, AI-native, stateless browser plugin system designed to extend Brightlayer with privacy-first, encrypted, and fully sandboxed functionality.
+
+- **CarryChain**
+  [https://roxanneardary.com/carrychain/](https://roxanneardary.com/carrychain/)
+  An open-source, AGPL-3.0+ licensed marketplace and logistics network that enables direct, transparent trade between producers, carriers, and buyers. It operates without speculative pricing or intermediaries.
+
+- **CipherCommand**
+  [https://roxanneardary.com/ciphercommand/](https://roxanneardary.com/ciphercommand/)
+  A fully encrypted, open-source executive management platform that unifies dashboards, workflows, collaboration, and AI-driven insights. It enables secure, private, and intelligent decision-making.
+
+- **CivicProof**
+  [https://roxanneardary.com/civicproof/](https://roxanneardary.com/civicproof/)
+  An open-source identity verification commons that enables cryptographic, AI-assisted proof of identity and documents without centralized control.
+
+- **ClaimScout**
+  [https://roxanneardary.com/claimscout/](https://roxanneardary.com/claimscout/)
+  An open-source AI system that monitors repositories and online platforms to detect potential copyright infringements. It generates evidence-based DMCA-ready reports.
+
+- **CodeClear**
+  [https://roxanneardary.com/codeclear/](https://roxanneardary.com/codeclear/)
+  An open source AI platform that analyzes laws, detects validity and contradictions, and maps public funding for full governance transparency.
+
+- **CryptoGate**
+  [https://roxanneardary.com/cryptogate/](https://roxanneardary.com/cryptogate/)
+  An open-source, zero-knowledge authentication platform that replaces traditional passwords with secure, device-bound cryptographic identities. It supports distributed multi-factor approval and phishing-resistant passkeys.
+
+- **DeepFiling AI**
+  [https://roxanneardary.com/deepfiling-ai/](https://roxanneardary.com/deepfiling-ai/)
+  A nationwide intelligence system that monitors new business registrations across all 50 U.S. states. It detects anomalies, surges, and emerging economic signals in real time.
+
+- **EquiChain**
+  [https://roxanneardary.com/equichain/](https://roxanneardary.com/equichain/)
+  An open-source platform for private equity management, dividend automation, transparent investor records, and mission-driven business growth.
+
+- **Evidence Chain Network**
+  [https://roxanneardary.com/evidence-chain-network/](https://roxanneardary.com/evidence-chain-network/)
+  A network built on evidence, not assumption.
+
+- **GoldenLens**
+  [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)
+  An open-source AI application that helps users explore multiple perspectives of their thoughts and experiences. It supports clarity, empathy, and mental well-being.
+
+- **HelixERP**
+  [https://roxanneardary.com/helixerp/](https://roxanneardary.com/helixerp/)
+  Self-hosted ERP with finance, inventory, HR, CRM, and workflow automation, enhanced with AI insights.
+
+- **HelmOS**
+  [https://roxanneardary.com/helmos/](https://roxanneardary.com/helmos/)
+  A modular, local-first AI agent operating layer that wraps existing agents with intent verification, human governance, trust management, workflow orchestration, and fully auditable execution.
+
+- **Horizon Runtime**
+  [https://roxanneardary.com/horizon-runtime/](https://roxanneardary.com/horizon-runtime/)
+  An AGPL-3.0+ universal AI runtime built for adaptive mixed-precision inference, reasoning models, multimodal workloads, and scalable open-source AI infrastructure across local, enterprise, and distributed environments.
+
+- **HouseLens**
+  [https://roxanneardary.com/houselens/](https://roxanneardary.com/houselens/)
+  An open-source AI-powered platform that helps buyers and renters analyze property disclosures, verify compliance, and uncover risks before making a real estate decision.
+
+- **Idea2Reality**
+  [https://roxanneardary.com/idea2reality/](https://roxanneardary.com/idea2reality/)
+  An open-source industrial intelligence platform that transforms ideas into optimized, manufacturable hardware and software systems. It uses AI-driven design, logistics, and workforce planning.
+
+- **ImpactCom**
+  [https://roxanneardary.com/impactcom/](https://roxanneardary.com/impactcom/)
+  Decentralized, peer-to-peer commodity trading platform with smart contract escrow, FarmLedger integration, and transparent, accountable transactions.
+
+- **InfernoWatchAI**
+  [https://roxanneardary.com/infernowatchai/](https://roxanneardary.com/infernowatchai/)
+  From orbit to alert in seconds, an open-source AI platform for real-time wildfire detection, prediction, and public intelligence.
+
+- **IntegrityLayer**
+  [https://roxanneardary.com/integritylayer/](https://roxanneardary.com/integritylayer/)
+  Open-source identity integrity infrastructure that verifies real, unique humans through privacy-preserving KYC, liveness detection, and fraud network prevention.
+
+- **IntelliFeed**
+  [https://roxanneardary.com/intellifeed/](https://roxanneardary.com/intellifeed/)
+  An open-source, user-controlled social feed system that delivers transparent, balanced, and intelligent content on your terms.
+
+- **LaunchCraft**
+  [https://gitlab.com/Roxanne_Ardary/launchcraft](https://gitlab.com/Roxanne_Ardary/launchcraft)
+  An AI-powered system that turns user skills into validated home-based business opportunities with structured, step-by-step execution plans.
+
+- **LexChangeFeed**
+  [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)
+  The infrastructure for monitoring evolving law, providing real-time legal intelligence, citation-backed analysis, and jurisdiction-aware tracking of copyright law changes.
+
+- **LexiTown**
+  [https://roxanneardary.com/lexitown/](https://roxanneardary.com/lexitown/)
+  Multilingual chat platform with AI learning community-specific slang and preserving community voices.
+
+- **Liberty Assay**
+  [https://roxanneardary.com/libertyassay/](https://roxanneardary.com/libertyassay/)
+  An open-source, modular precious-metal assay system that analyzes jewelry using spectroscopy, AI vision, and robotics. It determines composition and provides real-time market-based payouts with full transparency.
+
+- **LittleCode**
+  [https://roxanneardary.com/littlecode/](https://roxanneardary.com/littlecode/)
+  AI design canvas converting natural language prompts into production-ready front-end code.
+
+- **LocaleMaterials**
+  [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)
+  An open-source, modular AI platform that recommends regenerative, locally sourced, climate-adaptive building materials based on geography, climate, and real-world supply chains.
+
+- **MedIQ**
+  [https://roxanneardary.com/mediq/](https://roxanneardary.com/mediq/)
+  AI platform automating Medicaid-to-Medicare transitions with verification, fraud detection, and encryption.
+
+- **MindLedger**
+  [https://roxanneardary.com/mindledger/](https://roxanneardary.com/mindledger/)
+  An open-source, AI-powered modular business management platform featuring CipherAI, advanced CRM, billing, payroll, compliance automation, cybersecurity protection, and customizable workflows.
+
+- **MotionNet**
+  [https://roxanneardary.com/motionnet/](https://roxanneardary.com/motionnet/)
+  An open-source AI system that transforms any song into real-time ballroom dance choreography using modular music analysis, motion generation, and 3D visualization.
+
+- **NaturePharmacopeia**
+  [https://roxanneardary.com/nature-pharmacopeia/](https://roxanneardary.com/nature-pharmacopeia/)
+  An open-source, all-natural database of plants, minerals, fibers, pigments, and materials documenting their medicinal, coloring, and material properties for research and sustainable natural use.
+
+- **NixFiles**
+  [https://roxanneardary.com/nixfiles/](https://roxanneardary.com/nixfiles/)
+  A reproducible multi-host system configuration using Nix Flakes to manage desktops, laptops, and servers from a single declarative source.
+
+- **OpenAudia**
+  [https://roxanneardary.com/openaudia/](https://roxanneardary.com/openaudia/)
+  An open-source platform for ebooks, audiobooks, and music streaming that allows creators to upload, share, and discover digital media in a community-driven ecosystem.
+
+- **OpenChrona**
+  [https://roxanneardary.com/openchrona/](https://roxanneardary.com/openchrona/)
+  An open-source AI-powered horology platform for exploring, simulating, and building every major form of timekeeping technology from ancient sundials to modern atomic systems.
+
+- **OpenCluster**
+  [https://roxanneardary.com/opencluster/](https://roxanneardary.com/opencluster/)
+  A modular, federated, open-source infrastructure platform designed for sovereign AI, distributed compute, municipal resilience, and community-owned infrastructure. It is built around open standards, repairability, and long-term sustainability.
+
+- **Open Commons Dividend**
+  [https://roxanneardary.com/open-commons-dividend/](https://roxanneardary.com/open-commons-dividend/)
+  An open-source civic finance platform built to provide transparent budgeting, AI-assisted auditing, citizen oversight, and equitable surplus dividend distribution with mandatory human-in-the-loop accountability.
+
+- **OpenProperty**
+  [https://roxanneardary.com/openproperty/](https://roxanneardary.com/openproperty/)
+  An open-source real estate transparency platform that uses AI to verify disclosures, permits, and compliance for buyers, renters, and sellers.
+
+- **OpenSignal**
+  [https://roxanneardary.com/opensignal/](https://roxanneardary.com/opensignal/)
+  A secure, open-source, cross-platform collaboration platform with end-to-end encryption designed for private real-time communication and teamwork.
+
+- **OptiRank**
+  [https://roxanneardary.com/optirank/](https://roxanneardary.com/optirank/)
+  An open-source SEO and LLM optimization tool that analyzes existing website content and provides actionable insights to improve search rankings, semantic clarity, and AI discoverability.
+
+- **PeopleLayer**
+  [https://roxanneardary.com/peoplelayer/](https://roxanneardary.com/peoplelayer/)
+  An open-source self-sovereign identity and portable reputation platform that lets users earn verifiable credentials, protect privacy, and carry trusted credibility across digital ecosystems.
+
+- **PixelCommons**
+  [https://roxanneardary.com/pixelcommons/](https://roxanneardary.com/pixelcommons/)
+  An open-source PPC bot protection platform that verifies real human users and eliminates invalid traffic across advertising networks.
+
+- **PolyConnect**
+  [https://roxanneardary.com/polyconnect/](https://roxanneardary.com/polyconnect/)
+  PolyConnect is an open-source, fully encrypted, stateless unified API platform that connects and manages multiple third-party services through a single modular system.
+
+- **Protego**
+  [https://roxanneardary.com/protego/](https://roxanneardary.com/protego/)
+  An open-source, AI-powered browser privacy and security platform that protects users from tracking, unsafe extensions, intrusive advertising, and deceptive consent systems across all major browsers.
+
+- **ProviderLedger**
+  [https://roxanneardary.com/providerledger/](https://roxanneardary.com/providerledger/)
+  An open-source transparency platform that organizes verified public records on licensed IDD care providers to improve accountability and visibility in care systems.
+
+- **PublicStack AI**
+  [https://roxanneardary.com/publicstackai/](https://roxanneardary.com/publicstackai/)
+  An open-source intelligence system that recommends and composes full repositories to help developers build better software from existing open-source ecosystems.
+
+- **PulseNode**
+  [https://roxanneardary.com/pulsenode/](https://roxanneardary.com/pulsenode/)
+  Gives industries their own AI-driven persona, delivering insights, reports, and trend analysis with customizable frontend.
+
+- **QGuardian**
+  [https://roxanneardary.com/qguardian/](https://roxanneardary.com/qguardian/)
+  An open-source quantum computing platform that enforces fidelity and ensures reliable circuit execution across compatible hardware.
+
+- **QGuardian Registry**
+  [https://roxanneardary.com/qguardian-registry/](https://roxanneardary.com/qguardian-registry/)
+  An open-source quantum hardware compatibility registry that standardizes device capabilities to enable automatic matching and execution across quantum systems.
+
+- **RAGBase**
+  [https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)
+  A schema-enforced infrastructure layer for Retrieval-Augmented Generation (RAG) systems with modular components and strict spec validation for reliable, production-grade AI pipelines.
+
+- **RevealAI**
+  [https://roxanneardary.com/revealai/](https://roxanneardary.com/revealai/)
+  An open-source platform that uses AI to analyze and explain how algorithms shape what you see online. It makes hidden ranking and recommendation systems transparent and understandable.
+
+- **Securekit**
+  [https://roxanneardary.com/securekit/](https://roxanneardary.com/securekit/)
+  A protocol-agnostic security kernel that enforces zero-trust, sandboxed execution for AI tool calls across any LLM or agent system.
+
+- **Semantic Firewall**
+  [https://roxanneardary.com/semantic-firewall/](https://roxanneardary.com/semantic-firewall/)
+  A zero-trust privacy layer that transforms prompts before they reach an LLM, ensuring AI only processes abstracted intent while sensitive data remains local and protected.
+
+- **ShortSight**
+  [https://roxanneardary.com/shortsight/](https://roxanneardary.com/shortsight/)
+  An open-source financial transparency platform that tracks investment advice, market performance, and consumer complaints to promote accountability and investor protection.
+
+- **Singularity**
+  [https://roxanneardary.com/singularity/](https://roxanneardary.com/singularity/)
+  Universal SDK connecting developers to any API/LLM with standardized responses, auth, rate-limiting, and plugin support.
+
+- **StrataAI**
+  [https://roxanneardary.com/strataai/](https://roxanneardary.com/strataai/)
+  An open-source, modular AI system that analyzes global gemstone markets to generate transparent, data-driven fair market valuations using aggregated market data and machine learning.
+
+- **StreamAxis**
+  [https://roxanneardary.com/streamaxis/](https://roxanneardary.com/streamaxis/)
+  An open-source modular platform for gyroscopic motion control, screen casting, remote interaction, display management, and future holographic computing technologies. It is built to scale from personal devices to enterprise environments.
+
+- **SynchroFab**
+  [https://roxanneardary.com/synchrofab/](https://roxanneardary.com/synchrofab/)
+  AI-driven smart factory platform integrating edge-cloud intelligence, robotics, IoT, and sustainability features.
+
+- **TaxGenie**
+  [https://roxanneardary.com/taxgenie/](https://roxanneardary.com/taxgenie/)
+  An open-source, privacy-first tax intelligence platform powered by AxiomTaxAI that helps individuals and business owners understand, organize, and plan taxes year-round using encrypted AI-driven guidance.
+
+- **TraceCommons**
+  [https://roxanneardary.com/tracecommons/](https://roxanneardary.com/tracecommons/)
+  An open-source transparency and provenance infrastructure that uses Merkle-based logs and AI provenance tracking to create verifiable, tamper-evident digital records.
+
+- **TrustLens**
+  [https://roxanneardary.com/trustlens/](https://roxanneardary.com/trustlens/)
+  An open-source AI-powered platform that helps sellers prepare fully transparent, disclosure-ready property listings before going to market.
+
+- **TruthInBilling**
+  [https://roxanneardary.com/truthinbilling/](https://roxanneardary.com/truthinbilling/)
+  An open-source, privacy-preserving billing transparency platform that verifies and analyzes real-world invoices to detect systemic discrepancies between advertised pricing and actual charges.
+
+- **TruthLayer**
+  [https://roxanneardary.com/truthlayer/](https://roxanneardary.com/truthlayer/)
+  An open-source product intelligence system that delivers verifiable, mathematically grounded comparisons of products using transparent and reproducible data analysis.
+
+- **ValueGrid**
+  [https://roxanneardary.com/valuegrid/](https://roxanneardary.com/valuegrid/)
+  An open-source property intelligence platform that provides transparent valuation models, environmental risk analysis, and a publicly verifiable National Property Ledger.
+
+- **VectorIDE**
+  [https://roxanneardary.com/vectoride/](https://roxanneardary.com/vectoride/)
+  A fast, secure, cross-platform open-source IDE with end-to-end encrypted collaboration and powerful development tools designed to help developers code confidently.
+
+- **Wattonomy**
+  [https://roxanneardary.com/wattonomy/](https://roxanneardary.com/wattonomy/)
+  An open-source energy decision intelligence platform that models real-world utility system costs, incentives, and long-term performance to deliver transparent, data-driven recommendations.
+
+  ## License & Notice Requirements
+
+AI Infrastructure Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to any project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
