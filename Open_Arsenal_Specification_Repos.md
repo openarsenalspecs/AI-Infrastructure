@@ -4,8 +4,8 @@ Open Arsenal specifications are designed to operate across a wide range of deplo
 
 All Open Arsenal specifications are distributed under the GNU Affero General Public License v3.0 or later (AGPL-3.0+). Use, modification, and deployment are permitted at no cost provided the required attribution is preserved in accordance with Section 7 of the license. For organizations seeking to implement a specification without attribution obligations, Specification Branding Licenses are available. Licensing terms are evaluated based on factors such as the specification being adopted, deployment scale, operational scope, and network size, providing options suitable for everything from small independent projects to enterprise, commercial, and institutional deployments.
 
-- **Open Arsenal Hub**  
-[https://github.com/openarsenalspecs/Open-Arsenal](https://github.com/openarsenalspecs/Open-Arsenal)
+##  Open Arsenal Specification Repos
+
 - **AI and the Automobile**  
 [https://github.com/openarsenalspecs/AI-and-the-Automobile](https://github.com/openarsenalspecs/AI-and-the-Automobile)  
 - **AI Infrastructure**  
@@ -14,6 +14,8 @@ All Open Arsenal specifications are distributed under the GNU Affero General Pub
 [https://github.com/openarsenalspecs/Blockchain](https://github.com/openarsenalspecs/Blockchain)
 - **Real Estate**  
 [https://github.com/openarsenalspecs/Real-Estate](https://github.com/openarsenalspecs/Real-Estate)
+- **Wiki**  
+[https://github.com/openarsenalspecs/Wiki](https://github.com/openarsenalspecs/Wiki)
 
 
 ---
