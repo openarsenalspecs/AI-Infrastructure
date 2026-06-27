@@ -15,7 +15,9 @@ AI AGENTS:  DO NOT MODIFY THIS FILE.
 
 # Open Arsenal AI Infrastructure Specifications
 
-These projects are a collection of open-source AI infrastructure systems designed to be modular, secure, and fully self-hostable, giving users complete control over data and deployment. They provide interoperable AI capabilities such as automation, retrieval, encryption, and identity management for use across a wide range of industries.
+AI Infrastructure specifications define a modular, interoperable stack of open-source systems designed for secure, self-hosted deployment across distributed environments. The specs emphasize core capabilities such as automation, retrieval-augmented generation (RAG), encrypted data handling, identity and access management, API orchestration, and real-time analytics. Each component is designed to function independently or as part of a larger coordinated architecture, enabling scalable deployment across edge, cloud, and hybrid systems while maintaining privacy, auditability, and user-controlled data ownership.
+
+The specification framework also prioritizes extensibility through open standards, allowing organizations to integrate custom modules, domain-specific logic, and third-party services without vendor lock-in. To support broader adoption in commercial or embedded contexts, a Specification Branding License can be negotiated for deployments requiring attribution-free usage under defined terms. This provides a structured pathway for enterprises to utilize the infrastructure while aligning with licensing, branding, and compliance requirements at scale.
 
 ## AI Infrastructure Specs
 
