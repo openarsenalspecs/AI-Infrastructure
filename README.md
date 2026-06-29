@@ -77,6 +77,10 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/claimscout/](https://roxanneardary.com/claimscout/)   
   An open-source AI system that monitors repositories and online platforms to detect potential copyright infringements. It generates evidence-based DMCA-ready reports.
 
+- **ClockWork**  
+  [https://roxanneardary.com/clockwork/](https://roxanneardary.com/clockwork/)  
+  ClockWork is an open-source, AGPL-3.0+ service orchestration platform that replaces commission-based systems with a transparent, hourly-based model for dispatching and delivering professional services. It combines fair routing, real-time scheduling, billing, and compliance tools to create a modular infrastructure for any industry.
+
 - **CodeClear**   
   [https://roxanneardary.com/codeclear/](https://roxanneardary.com/codeclear/)   
   An open source AI platform that analyzes laws, detects validity and contradictions, and maps public funding for full governance transparency.
