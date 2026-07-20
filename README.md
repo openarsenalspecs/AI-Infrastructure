@@ -29,7 +29,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/adaptive-materials-engine/](https://roxanneardary.com/adaptive-materials-engine/)   
   An open-source engineering intelligence system that replaces plastic components with sustainable, locally sourced materials. It redesigns systems when direct substitution is not possible.
 
-- **Arq**   
+- [**Arq Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/6bcbe1f324068d1e01ec9742735df00645c9ae44/Arq.md)   
   [https://roxanneardary.com/arq/](https://roxanneardary.com/arq/)   
   Machine intelligence system for understanding, modeling, and evolving software architecture as a living graph of modular structure and system behavior.
 
