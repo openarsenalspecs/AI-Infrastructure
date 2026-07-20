@@ -317,6 +317,14 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/wattonomy/](https://roxanneardary.com/wattonomy/)   
   An open-source energy decision intelligence platform that models real-world utility system costs, incentives, and long-term performance to deliver transparent, data-driven recommendations.
 
+---
+
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/ai-infrastructure/](https://roxanneardary.com/ai-infrastructure/)
+
+---
+
 ## License & Notice Requirements
 
 AI Infrastructure Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
