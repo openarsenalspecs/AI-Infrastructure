@@ -25,7 +25,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/actioncheck/](https://roxanneardary.com/actioncheck/)   
   An open-source civic accountability platform that tracks political promises, voting records, financial disclosures, and conflicts of interest. It helps citizens make informed decisions through transparent data access.
 
-- **Adaptive Materials Engine (AME)**   
+- [**Adaptive Materials Engine (AME) Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/5de91261ae6df4f41ef9a0b6912641b60d83f253/Adaptive%20Materials%20Engine.md)     
   [https://roxanneardary.com/adaptive-materials-engine/](https://roxanneardary.com/adaptive-materials-engine/)   
   An open-source engineering intelligence system that replaces plastic components with sustainable, locally sourced materials. It redesigns systems when direct substitution is not possible.
 
