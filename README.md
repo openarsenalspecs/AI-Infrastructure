@@ -37,10 +37,6 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/axisjuris/](https://roxanneardary.com/axisjuris/)   
   A modular legal intelligence system that analyzes patent law, case law, and jurisdictional regulations. It uses a continuously updated, source-driven knowledge graph.
 
-- **BioFoundry**   
-  [https://roxanneardary.com/biofoundry/](https://roxanneardary.com/biofoundry/)   
-  An open-source computational biology platform for primer design, genome validation, and CRISPR-aware experimental planning. It enables seamless workflows from DNA sequence input to validated experimental design.
-
 - **AllPost**   
   [https://roxanneardary.com/allpost/](https://roxanneardary.com/allpost/)   
   An open-source, self-hostable social publishing platform that lets users write once and publish across multiple social media networks. It uses a modular, plugin-based architecture.
@@ -48,6 +44,10 @@ The specification framework also prioritizes extensibility through open standard
 - **Aurea**   
   [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)   
   An open-source AI-powered security tool that detects and repairs malicious code, breaches, backdoors, and malware in infrastructure.
+
+- **BioFoundry**   
+  [https://roxanneardary.com/biofoundry/](https://roxanneardary.com/biofoundry/)   
+  An open-source computational biology platform for primer design, genome validation, and CRISPR-aware experimental planning. It enables seamless workflows from DNA sequence input to validated experimental design.
 
 - **BranchWeb**   
   [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)   
