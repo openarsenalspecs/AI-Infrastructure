@@ -61,7 +61,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/brightlayerplugin/](https://roxanneardary.com/brightlayerplugin/)   
   An open-source, AI-native, stateless browser plugin system designed to extend Brightlayer with privacy-first, encrypted, and fully sandboxed functionality.
 
-- **CarryChain**   
+- [**CarryChain Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/649b0894a1efb13620f608eb72fb98b4c8b26f91/CarryChain.md)     
   [https://roxanneardary.com/carrychain/](https://roxanneardary.com/carrychain/)   
   An open-source, AGPL-3.0+ licensed marketplace and logistics network that enables direct, transparent trade between producers, carriers, and buyers. It operates without speculative pricing or intermediaries.
 
