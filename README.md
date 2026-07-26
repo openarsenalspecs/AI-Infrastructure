@@ -69,7 +69,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/ciphercommand/](https://roxanneardary.com/ciphercommand/)   
   A fully encrypted, open-source executive management platform that unifies dashboards, workflows, collaboration, and AI-driven insights. It enables secure, private, and intelligent decision-making.
 
-- **CivicProof**   
+- [**CivicProof Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/1079cba974f7b4684e669d8028df6081a3b36950/CivicProof.md)     
   [https://roxanneardary.com/civicproof/](https://roxanneardary.com/civicproof/)   
   An open-source identity verification commons that enables cryptographic, AI-assisted proof of identity and documents without centralized control.
 
