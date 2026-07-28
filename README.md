@@ -273,7 +273,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/singularity/](https://roxanneardary.com/singularity/)   
   Universal SDK connecting developers to any API/LLM with standardized responses, auth, rate-limiting, and plugin support.
 
-- **StrataAI**   
+- [**StrataAI Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/231356d267070929b81b4f09a43affefa934e435/StrataAI.md)     
   [https://roxanneardary.com/strataai/](https://roxanneardary.com/strataai/)   
   An open-source, modular AI system that analyzes global gemstone markets to generate transparent, data-driven fair market valuations using aggregated market data and machine learning.
 
