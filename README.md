@@ -157,6 +157,10 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/libertyassay/](https://roxanneardary.com/libertyassay/)   
   An open-source, modular precious-metal assay system that analyzes jewelry using spectroscopy, AI vision, and robotics. It determines composition and provides real-time market-based payouts with full transparency.
 
+- [**ListingStream Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c7f8a243956a1d8061cd6edee8666f33a97a014d/ListingStream.md)  
+[https://roxanneardary.com/listingstream/](https://roxanneardary.com/listingstream/)  
+An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assisted, human-in-the-loop workflows to create compliant, pixel-preserving product placements in photographs for real estate and other industries.
+
 - **LittleCode**   
   [https://roxanneardary.com/littlecode/](https://roxanneardary.com/littlecode/)   
   AI design canvas converting natural language prompts into production-ready front-end code.
