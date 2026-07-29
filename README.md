@@ -297,7 +297,7 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/tracecommons/](https://roxanneardary.com/tracecommons/)   
   An open-source transparency and provenance infrastructure that uses Merkle-based logs and AI provenance tracking to create verifiable, tamper-evident digital records.
 
-- **TrustLens**   
+- [**TrustLens Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/b9c86a5a910cd8e04b398f10dc6d1dad24dcefcb/TrustLens.md)     
   [https://roxanneardary.com/trustlens/](https://roxanneardary.com/trustlens/)   
   An open-source AI-powered platform that helps sellers prepare fully transparent, disclosure-ready property listings before going to market.
 
