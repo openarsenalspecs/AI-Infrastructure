@@ -205,7 +205,7 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/open-commons-dividend/](https://roxanneardary.com/open-commons-dividend/)   
   An open-source civic finance platform built to provide transparent budgeting, AI-assisted auditing, citizen oversight, and equitable surplus dividend distribution with mandatory human-in-the-loop accountability.
 
-- **OpenProperty**   
+- [**OpenProperty Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/2307cd5219afd426545a83b34227643e1bb3d08b/OpenProperty.md)     
   [https://roxanneardary.com/openproperty/](https://roxanneardary.com/openproperty/)   
   An open-source real estate transparency platform that uses AI to verify disclosures, permits, and compliance for buyers, renters, and sellers.
 
