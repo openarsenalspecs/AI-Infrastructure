@@ -161,7 +161,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/littlecode/](https://roxanneardary.com/littlecode/)   
   AI design canvas converting natural language prompts into production-ready front-end code.
 
-- **LocaleMaterials**   
+- [**LocaleMaterials Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/65da0e9a27cd711956ad75aa476484e34db6837b/LocaleMaterials.md)   
   [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)   
   An open-source, modular AI platform that recommends regenerative, locally sourced, climate-adaptive building materials based on geography, climate, and real-world supply chains.
 
