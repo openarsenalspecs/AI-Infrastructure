@@ -309,7 +309,7 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/truthlayer/](https://roxanneardary.com/truthlayer/)   
   An open-source product intelligence system that delivers verifiable, mathematically grounded comparisons of products using transparent and reproducible data analysis.
 
-- **ValueGrid**   
+- [**ValueGrid Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/53115e8a96f73ef4d38b65a116410ad08a57031d/ValueGrid.md)     
   [https://roxanneardary.com/valuegrid/](https://roxanneardary.com/valuegrid/)   
   An open-source property intelligence platform that provides transparent valuation models, environmental risk analysis, and a publicly verifiable National Property Ledger.
 
