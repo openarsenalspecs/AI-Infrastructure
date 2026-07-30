@@ -49,7 +49,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/biofoundry/](https://roxanneardary.com/biofoundry/)   
   An open-source computational biology platform for primer design, genome validation, and CRISPR-aware experimental planning. It enables seamless workflows from DNA sequence input to validated experimental design.
 
-- **BranchWeb**   
+- [**BranchWeb Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/b8725dbea5c3b6d49afd963b5a248491fb9097ff/BranchWeb.md)     
   [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)   
   AI-powered platform turning GitHub/GitLab repositories into interactive, deployable websites.
 
