@@ -201,7 +201,7 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/opencluster/](https://roxanneardary.com/opencluster/)   
   A modular, federated, open-source infrastructure platform designed for sovereign AI, distributed compute, municipal resilience, and community-owned infrastructure. It is built around open standards, repairability, and long-term sustainability.
 
-- **Open Commons Dividend**   
+- [**Open Commons Dividend Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/f9e975f736c61874289168db0d55ae7eb90e40e2/OpenCommonsDividend.md)     
   [https://roxanneardary.com/open-commons-dividend/](https://roxanneardary.com/open-commons-dividend/)   
   An open-source civic finance platform built to provide transparent budgeting, AI-assisted auditing, citizen oversight, and equitable surplus dividend distribution with mandatory human-in-the-loop accountability.
 
