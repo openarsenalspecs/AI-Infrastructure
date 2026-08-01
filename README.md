@@ -93,6 +93,10 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/deepfiling-ai/](https://roxanneardary.com/deepfiling-ai/)   
   A nationwide intelligence system that monitors new business registrations across all 50 U.S. states. It detects anomalies, surges, and emerging economic signals in real time.
 
+- [**EdgeGateway Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/e09dec09730fdba128612191c4673d4bea2c3aff/EdgeGateway.md)  
+[https://roxanneardary.com/edgegateway/](https://roxanneardary.com/edgegateway/)  
+EdgeGateway is an open modular specification for secure edge device onboarding, identity management, lifecycle governance, and zero-trust infrastructure. It provides a vendor-neutral framework for building trusted edge ecosystems through cryptographic identity, policy enforcement, monitoring, and interoperable device management.  
+
 - **EquiChain**   
   [https://roxanneardary.com/equichain/](https://roxanneardary.com/equichain/)   
   An open-source platform for private equity management, dividend automation, transparent investor records, and mission-driven business growth.
