@@ -177,7 +177,7 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/mediq/](https://roxanneardary.com/mediq/)   
   AI platform automating Medicaid-to-Medicare transitions with verification, fraud detection, and encryption.
 
-- **MindLedger**   
+- [**MindLedger Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/a12e5187bb64c5cec5e571be9482530b0aa49dcf/MindLedger.md)     
   [https://roxanneardary.com/mindledger/](https://roxanneardary.com/mindledger/)   
   An open-source, AI-powered modular business management platform featuring CipherAI, advanced CRM, billing, payroll, compliance automation, cybersecurity protection, and customizable workflows.
 
