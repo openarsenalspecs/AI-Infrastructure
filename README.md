@@ -297,6 +297,10 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/taxgenie/](https://roxanneardary.com/taxgenie/)   
   An open-source, privacy-first tax intelligence platform powered by AxiomTaxAI that helps individuals and business owners understand, organize, and plan taxes year-round using encrypted AI-driven guidance.
 
+- [**The Transparent Food Project Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/629910039e0f1261cf8912499287d33cda6f1ff0/The%20Transparent%20Food%20Project.md)  
+[https://roxanneardary.com/the-transparent-food-project/](https://roxanneardary.com/the-transparent-food-project/)
+The Transparent Food Project is an open-source specification that provides tools for tracing food supply chains, detecting hidden import pathways, and analyzing product origins through transparent data and explainable intelligence. Its modular architecture enables communities, developers, and organizations to build auditable food transparency systems without vendor lock-in.
+
 - **TraceCommons**   
   [https://roxanneardary.com/tracecommons/](https://roxanneardary.com/tracecommons/)   
   An open-source transparency and provenance infrastructure that uses Merkle-based logs and AI provenance tracking to create verifiable, tamper-evident digital records.
