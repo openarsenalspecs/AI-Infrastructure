@@ -105,7 +105,7 @@ EdgeGateway is an open modular specification for secure edge device onboarding, 
   [https://roxanneardary.com/evidence-chain-network/](https://roxanneardary.com/evidence-chain-network/)   
   A network built on evidence, not assumption.
 
-- [**FoodMesh**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/869793d1b2bb73ed2ac7f171bc3e235b5cc7dd90/FoodMesh.md)  
+- [**FoodMesh Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/869793d1b2bb73ed2ac7f171bc3e235b5cc7dd90/FoodMesh.md)  
   [https://roxanneardary.com/foodmesh/](https://roxanneardary.com/foodmesh/)  
 FoodMesh is an open-source, modular logistics specification that connects farmers, carriers, distributors, and communities through a shared transportation network. It provides transparent shipment tracking, multi-farm load coordination, GPS verification, truck-aware routing, and delivery validation to build resilient and decentralized food systems.  
 
