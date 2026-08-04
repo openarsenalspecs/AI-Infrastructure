@@ -161,9 +161,9 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://roxanneardary.com/lexitown/](https://roxanneardary.com/lexitown/)   
   Multilingual chat platform with AI learning community-specific slang and preserving community voices.
 
-- **Liberty Assay**   
+- [**Liberty Assay Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/8ef4d6e2115a5c3c3b01b100a60e9dc2c7492a25/Liberty%20Assay.md)     
   [https://roxanneardary.com/libertyassay/](https://roxanneardary.com/libertyassay/)   
-  An open-source, modular precious-metal assay system that analyzes jewelry using spectroscopy, AI vision, and robotics. It determines composition and provides real-time market-based payouts with full transparency.
+  An open-source, modular precious-metal assay system that analyzes jewelry using spectroscopy, AI vision, and robotics. It determines composition and provides real-time market-based payouts with full transparency.  
 
 - [**ListingStream Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c7f8a243956a1d8061cd6edee8666f33a97a014d/ListingStream.md)  
 [https://roxanneardary.com/listingstream/](https://roxanneardary.com/listingstream/)  
