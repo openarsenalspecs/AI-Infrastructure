@@ -201,9 +201,9 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/openaudia/](https://roxanneardary.com/openaudia/)   
   An open-source platform for ebooks, audiobooks, and music streaming that allows creators to upload, share, and discover digital media in a community-driven ecosystem.
 
-- **OpenChrona**   
+- [**OpenChrona Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/73fe9129a1c8812493a7a701171cca512a25bf39/OpenChrona.md)     
   [https://roxanneardary.com/openchrona/](https://roxanneardary.com/openchrona/)   
-  An open-source AI-powered horology platform for exploring, simulating, and building every major form of timekeeping technology from ancient sundials to modern atomic systems.
+  An open-source AI-powered horology platform for exploring, simulating, and building every major form of timekeeping technology from ancient sundials to modern atomic systems.  
 
 - **OpenCluster**   
   [https://roxanneardary.com/opencluster/](https://roxanneardary.com/opencluster/)   
