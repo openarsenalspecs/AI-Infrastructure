@@ -277,6 +277,10 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/semantic-firewall/](https://roxanneardary.com/semantic-firewall/)   
   A zero-trust privacy layer that transforms prompts before they reach an LLM, ensuring AI only processes abstracted intent while sensitive data remains local and protected.
 
+- [**SentinelMesh Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/89d9c5288d708989c7587b94e28864035bbb7f3e/SentinelMesh.md)  
+[https://roxanneardary.com/sentinelmesh/](https://roxanneardary.com/sentinelmesh/)  
+SentinelMesh is an AI governance specification for intelligent oversight of artificial systems, providing modular risk assessment, safety evaluation, transparency, monitoring, and accountability frameworks. It enables organizations to evaluate AI risks, understand impacts, and support responsible deployment through federated governance and continuous oversight.  
+
 - **ShortSight**   
   [https://roxanneardary.com/shortsight/](https://roxanneardary.com/shortsight/)   
   An open-source financial transparency platform that tracks investment advice, market performance, and consumer complaints to promote accountability and investor protection.
