@@ -293,9 +293,9 @@ SentinelMesh is an AI governance specification for intelligent oversight of arti
   [https://roxanneardary.com/strataai/](https://roxanneardary.com/strataai/)   
   An open-source, modular AI system that analyzes global gemstone markets to generate transparent, data-driven fair market valuations using aggregated market data and machine learning.
 
-- **StreamAxis**   
+- [**StreamAxis Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/3cc1804ef167232b46e0d995f48f54cacde7b981/StreamAxis.md)     
   [https://roxanneardary.com/streamaxis/](https://roxanneardary.com/streamaxis/)   
-  An open-source modular platform for gyroscopic motion control, screen casting, remote interaction, display management, and future holographic computing technologies. It is built to scale from personal devices to enterprise environments.
+  An open-source modular platform for gyroscopic motion control, screen casting, remote interaction, display management, and future holographic computing technologies. It is built to scale from personal devices to enterprise environments.  
 
 - **SynchroFab**   
   [https://roxanneardary.com/synchrofab/](https://roxanneardary.com/synchrofab/)   
