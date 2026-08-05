@@ -149,9 +149,9 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://roxanneardary.com/intellifeed/](https://roxanneardary.com/intellifeed/)   
   An open-source, user-controlled social feed system that delivers transparent, balanced, and intelligent content on your terms.
 
-- **LaunchCraft**   
+- [**LaunchCraft Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/bc2835ff0cac0884013e1a2277ca1ed5a0cd7c5d/LaunchCraft.md)     
   [https://gitlab.com/Roxanne_Ardary/launchcraft](https://gitlab.com/Roxanne_Ardary/launchcraft)   
-  An AI-powered system that turns user skills into validated home-based business opportunities with structured, step-by-step execution plans.
+  An AI-powered system that turns user skills into validated home-based business opportunities with structured, step-by-step execution plans.  
 
 - **LexChangeFeed**   
   [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)   
