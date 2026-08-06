@@ -193,6 +193,10 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/nature-pharmacopeia/](https://roxanneardary.com/nature-pharmacopeia/)   
   An open-source, all-natural database of plants, minerals, fibers, pigments, and materials documenting their medicinal, coloring, and material properties for research and sustainable natural use.
 
+- [**NextSpark Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/7c0b2de499c58f42a3739b7e5c7320d68f5ded5c/NextSpark.md)  
+[https://roxanneardary.com/nextspark/](https://roxanneardary.com/nextspark/)
+NextSpark is a modular developer speed booster pack for Next.js that accelerates workflows, automates repetitive tasks, and improves the development experience without requiring migration. Built with a core module architecture and optional plugins, NextSpark helps developers build, debug, optimize, and publish applications faster.  
+
 - **NixFiles**   
   [https://roxanneardary.com/nixfiles/](https://roxanneardary.com/nixfiles/)   
   A reproducible multi-host system configuration using Nix Flakes to manage desktops, laptops, and servers from a single declarative source.
