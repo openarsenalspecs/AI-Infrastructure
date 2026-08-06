@@ -129,9 +129,9 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://roxanneardary.com/houselens/](https://roxanneardary.com/houselens/)   
   An open-source AI-powered platform that helps buyers and renters analyze property disclosures, verify compliance, and uncover risks before making a real estate decision.
 
-- **Idea2Reality**   
+- [**Idea2Reality Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/3d8c618845dc74dae193cb28611a25ce42d82853/Idea2Reality.md)     
   [https://roxanneardary.com/idea2reality/](https://roxanneardary.com/idea2reality/)   
-  An open-source industrial intelligence platform that transforms ideas into optimized, manufacturable hardware and software systems. It uses AI-driven design, logistics, and workforce planning.
+  An open-source industrial intelligence platform that transforms ideas into optimized, manufacturable hardware and software systems. It uses AI-driven design, logistics, and workforce planning.  
 
 - **ImpactCom**   
   [https://roxanneardary.com/impactcom/](https://roxanneardary.com/impactcom/)   
