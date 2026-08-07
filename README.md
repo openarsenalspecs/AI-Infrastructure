@@ -341,6 +341,10 @@ The Transparent Food Project is an open-source specification that provides tools
   [https://roxanneardary.com/vectoride/](https://roxanneardary.com/vectoride/)   
   A fast, secure, cross-platform open-source IDE with end-to-end encrypted collaboration and powerful development tools designed to help developers code confidently.
 
+- [**Veridion System Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/55c1f00d48913e540fd07acee9a03de011566ccd/Veridion%20System.md)  
+[https://roxanneardary.com/veridion-system/](https://roxanneardary.com/veridion-system/)  
+Infrastructure for trusted signals that transforms fragmented, multi-source data into validated, explainable, and auditable intelligence through adversarial validation and structured signal fusion.
+
 - **Wattonomy**   
   [https://roxanneardary.com/wattonomy/](https://roxanneardary.com/wattonomy/)   
   An open-source energy decision intelligence platform that models real-world utility system costs, incentives, and long-term performance to deliver transparent, data-driven recommendations.
