@@ -233,9 +233,9 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/peoplelayer/](https://roxanneardary.com/peoplelayer/)   
   An open-source self-sovereign identity and portable reputation platform that lets users earn verifiable credentials, protect privacy, and carry trusted credibility across digital ecosystems.
 
-- **PixelCommons**   
+- [**PixelCommons Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/b8204ff69bbe05d849cc009bd415cfb6f6a60620/PixelCommons.md)     
   [https://roxanneardary.com/pixelcommons/](https://roxanneardary.com/pixelcommons/)   
-  An open-source PPC bot protection platform that verifies real human users and eliminates invalid traffic across advertising networks.
+  An open-source PPC bot protection platform that verifies real human users and eliminates invalid traffic across advertising networks.  
 
 - **PolyConnect**   
   [https://roxanneardary.com/polyconnect/](https://roxanneardary.com/polyconnect/)   
