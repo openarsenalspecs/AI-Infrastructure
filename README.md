@@ -77,7 +77,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/claimscout/](https://roxanneardary.com/claimscout/)   
   An open-source AI system that monitors repositories and online platforms to detect potential copyright infringements. It generates evidence-based DMCA-ready reports.
 
-- **ClockWork**  
+- [**ClockWork Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/def3591e31b3480cb952934e46f2487c78f0471b/ClockWork.md)    
   [https://roxanneardary.com/clockwork/](https://roxanneardary.com/clockwork/)  
   ClockWork is an open-source, AGPL-3.0+ service orchestration platform that replaces commission-based systems with a transparent, hourly-based model for dispatching and delivering professional services. It combines fair routing, real-time scheduling, billing, and compliance tools to create a modular infrastructure for any industry.
 
