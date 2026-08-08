@@ -45,7 +45,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)   
   An open-source AI-powered security tool that detects and repairs malicious code, breaches, backdoors, and malware in infrastructure.
 
-- **BioFoundry**   
+- [**BioFoundry Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/e81e3f304d6af2470b777325581b3060c3dfc4cf/BioFoundry.md)     
   [https://roxanneardary.com/biofoundry/](https://roxanneardary.com/biofoundry/)   
   An open-source computational biology platform for primer design, genome validation, and CRISPR-aware experimental planning. It enables seamless workflows from DNA sequence input to validated experimental design.
 
