@@ -113,7 +113,7 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)   
   An open-source AI application that helps users explore multiple perspectives of their thoughts and experiences. It supports clarity, empathy, and mental well-being.
 
-- **HelixERP**   
+- [**HelixERP Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/df5d02a97ccbdf2ceb9fe6e37c9306bbccca9d1d/HelixERP.md)     
   [https://roxanneardary.com/helixerp/](https://roxanneardary.com/helixerp/)   
   Self-hosted ERP with finance, inventory, HR, CRM, and workflow automation, enhanced with AI insights.
 
