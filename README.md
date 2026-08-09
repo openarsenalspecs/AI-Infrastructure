@@ -253,7 +253,7 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/publicstackai/](https://roxanneardary.com/publicstackai/)   
   An open-source intelligence system that recommends and composes full repositories to help developers build better software from existing open-source ecosystems.
 
-- **PulseNode**   
+- [**PulseNode Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/95da9dfde63789bc9ff55df5ee38d28e40fce127/PulseNode.md)     
   [https://roxanneardary.com/pulsenode/](https://roxanneardary.com/pulsenode/)   
   Gives industries their own AI-driven persona, delivering insights, reports, and trend analysis with customizable frontend.
 
