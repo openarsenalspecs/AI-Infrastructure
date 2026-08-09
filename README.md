@@ -257,7 +257,7 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/pulsenode/](https://roxanneardary.com/pulsenode/)   
   Gives industries their own AI-driven persona, delivering insights, reports, and trend analysis with customizable frontend.
 
-- **QGuardian**   
+- [**QGuardian Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/f69fcbcc41e3d25be067559e0db75ad4f2379f0f/QGuardian.md)     
   [https://roxanneardary.com/qguardian/](https://roxanneardary.com/qguardian/)   
   An open-source quantum computing platform that enforces fidelity and ensures reliable circuit execution across compatible hardware.
 
