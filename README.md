@@ -157,7 +157,7 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)   
   The infrastructure for monitoring evolving law, providing real-time legal intelligence, citation-backed analysis, and jurisdiction-aware tracking of copyright law changes.
 
-- **LexiTown**   
+- [**LexiTown Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/b749e247c41edeeb747e622c0117fd93fad42aea/LexiTown.md)     
   [https://roxanneardary.com/lexitown/](https://roxanneardary.com/lexitown/)   
   Multilingual chat platform with AI learning community-specific slang and preserving community voices.
 
