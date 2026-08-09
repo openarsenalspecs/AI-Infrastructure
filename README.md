@@ -169,7 +169,7 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
 [https://roxanneardary.com/listingstream/](https://roxanneardary.com/listingstream/)  
 An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assisted, human-in-the-loop workflows to create compliant, pixel-preserving product placements in photographs for real estate and other industries.
 
-- **LittleCode**   
+- [**LittleCode Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/a2b0e92042351306adac0d713998c61b051c540a/LittleCode.md)     
   [https://roxanneardary.com/littlecode/](https://roxanneardary.com/littlecode/)   
   AI design canvas converting natural language prompts into production-ready front-end code.
 
