@@ -261,7 +261,7 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/qguardian/](https://roxanneardary.com/qguardian/)   
   An open-source quantum computing platform that enforces fidelity and ensures reliable circuit execution across compatible hardware.
 
-- **QGuardian Registry**   
+- [**QGuardian Registry Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/aa484d48dc79f853a6362c88496a73586d477485/QGuardian%20Registry.md)     
   [https://roxanneardary.com/qguardian-registry/](https://roxanneardary.com/qguardian-registry/)   
   An open-source quantum hardware compatibility registry that standardizes device capabilities to enable automatic matching and execution across quantum systems.
 
