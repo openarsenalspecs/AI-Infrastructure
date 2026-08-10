@@ -269,7 +269,7 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)   
   A schema-enforced infrastructure layer for Retrieval-Augmented Generation (RAG) systems with modular components and strict spec validation for reliable, production-grade AI pipelines.
 
-- **RevealAI**   
+- [**RevealAI Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/98d7ec9d9089509337a769ff6c6dab64d8f04de4/RevealAI.md)     
   [https://roxanneardary.com/revealai/](https://roxanneardary.com/revealai/)   
   An open-source platform that uses AI to analyze and explain how algorithms shape what you see online. It makes hidden ranking and recommendation systems transparent and understandable.
 
