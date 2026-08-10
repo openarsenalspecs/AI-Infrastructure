@@ -185,7 +185,7 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/mindledger/](https://roxanneardary.com/mindledger/)   
   An open-source, AI-powered modular business management platform featuring CipherAI, advanced CRM, billing, payroll, compliance automation, cybersecurity protection, and customizable workflows.
 
-- **MotionNet**   
+- [**MotionNet Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/44cf80bf61afbe5be9a62d2dc87bd8730605c945/MotionNet.md)     
   [https://roxanneardary.com/motionnet/](https://roxanneardary.com/motionnet/)   
   An open-source AI system that transforms any song into real-time ballroom dance choreography using modular music analysis, motion generation, and 3D visualization.
 
