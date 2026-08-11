@@ -289,7 +289,7 @@ SentinelMesh is an AI governance specification for intelligent oversight of arti
   [https://roxanneardary.com/shortsight/](https://roxanneardary.com/shortsight/)   
   An open-source financial transparency platform that tracks investment advice, market performance, and consumer complaints to promote accountability and investor protection.
 
-- **Singularity**   
+- [**Singularity Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/2e929e1dc97d7af983440bea940569506280f547/Singularity.md)     
   [https://roxanneardary.com/singularity/](https://roxanneardary.com/singularity/)   
   Universal SDK connecting developers to any API/LLM with standardized responses, auth, rate-limiting, and plugin support.
 
