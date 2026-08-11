@@ -301,9 +301,9 @@ SentinelMesh is an AI governance specification for intelligent oversight of arti
   [https://roxanneardary.com/streamaxis/](https://roxanneardary.com/streamaxis/)   
   An open-source modular platform for gyroscopic motion control, screen casting, remote interaction, display management, and future holographic computing technologies. It is built to scale from personal devices to enterprise environments.  
 
-- **SynchroFab**   
+- [**SynchroFab Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/7924f72a3e2bf21b82a92270dc1bc6791d1bbf0f/SynchroFab.md)     
   [https://roxanneardary.com/synchrofab/](https://roxanneardary.com/synchrofab/)   
-  AI-driven smart factory platform integrating edge-cloud intelligence, robotics, IoT, and sustainability features.
+  AI-driven smart factory platform integrating edge-cloud intelligence, robotics, IoT, and sustainability features.  
 
 - [**TaxGenie Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/3dec4787a66f4a875485d2f2dd90ee028f88fdd0/TaxGenie.md)     
   [https://roxanneardary.com/taxgenie/](https://roxanneardary.com/taxgenie/)   
