@@ -57,7 +57,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/brightlayerbrowser/](https://roxanneardary.com/brightlayerbrowser/)   
   An open-source, AI-native, stateless web browser built with end-to-end encryption, sandboxed execution, and a strict privacy-first architecture. It eliminates tracking and puts full control back in the hands of the user.
 
-- **Brightlayer Plugin**   
+- [**Brightlayer Plugin Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/72912a6ad532de08a9e6cf2c2f64c82c74b3c907/Brightlayer%20Plugin.md)     
   [https://roxanneardary.com/brightlayerplugin/](https://roxanneardary.com/brightlayerplugin/)   
   An open-source, AI-native, stateless browser plugin system designed to extend Brightlayer with privacy-first, encrypted, and fully sandboxed functionality.
 
