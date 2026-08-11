@@ -53,7 +53,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)   
   AI-powered platform turning GitHub/GitLab repositories into interactive, deployable websites.
 
-- **Brightlayer Browser**   
+- [**Brightlayer Browser Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/cc6c27e837643a5a77e2fd32cd650567e9bb16c5/Brightlayer.md)     
   [https://roxanneardary.com/brightlayerbrowser/](https://roxanneardary.com/brightlayerbrowser/)   
   An open-source, AI-native, stateless web browser built with end-to-end encryption, sandboxed execution, and a strict privacy-first architecture. It eliminates tracking and puts full control back in the hands of the user.
 
