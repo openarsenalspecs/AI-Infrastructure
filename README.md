@@ -325,9 +325,9 @@ The Transparent Food Project is an open-source specification that provides tools
   [https://roxanneardary.com/trustlens/](https://roxanneardary.com/trustlens/)   
   An open-source AI-powered platform that helps sellers prepare fully transparent, disclosure-ready property listings before going to market.
 
-- **TruthInBilling**   
+- [**TruthInBilling Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/7ac1f6b8953f8b59e341978beee9b40988def82f/TruthInBilling.md)     
   [https://roxanneardary.com/truthinbilling/](https://roxanneardary.com/truthinbilling/)   
-  An open-source, privacy-preserving billing transparency platform that verifies and analyzes real-world invoices to detect systemic discrepancies between advertised pricing and actual charges.
+  An open-source, privacy-preserving billing transparency platform that verifies and analyzes real-world invoices to detect systemic discrepancies between advertised pricing and actual charges.  
 
 - **TruthLayer**   
   [https://roxanneardary.com/truthlayer/](https://roxanneardary.com/truthlayer/)   
