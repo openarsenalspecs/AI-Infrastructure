@@ -61,7 +61,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/brightlayerplugin/](https://roxanneardary.com/brightlayerplugin/)   
   An open-source, AI-native, stateless browser plugin system designed to extend Brightlayer with privacy-first, encrypted, and fully sandboxed functionality.
 
-- **CampGrid**  
+- [**CampGrid Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/873daf21d4e591b6d8c077a453b56f508601e869/CampGrid.md)    
 [https://roxanneardary.com/campgrid/](https://roxanneardary.com/campgrid/)  
 CampGrid is a modular campground management specification connecting sites, reservations, rentals, private ownership, maintenance, utilities, community services, accounting, and tax reporting. It provides transparent shared expense allocation, complete financial tracking, asset management, and operational optimization for campgrounds and mixed-ownership communities.  
 
