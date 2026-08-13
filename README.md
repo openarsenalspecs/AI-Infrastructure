@@ -225,9 +225,9 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/openproperty/](https://roxanneardary.com/openproperty/)   
   An open-source real estate transparency platform that uses AI to verify disclosures, permits, and compliance for buyers, renters, and sellers.
 
-- **OpenSignal**   
+- [**OpenSignal Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c67192bb6e1aefdc97f5034e62d42aa1ae8c568f/OpenSignal.md)     
   [https://roxanneardary.com/opensignal/](https://roxanneardary.com/opensignal/)   
-  A secure, open-source, cross-platform collaboration platform with end-to-end encryption designed for private real-time communication and teamwork.
+  A secure, open-source, cross-platform collaboration platform with end-to-end encryption designed for private real-time communication and teamwork.  
 
 - [**OptiRank Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c20fcc3d63cec3fd3dbb1341aa76265b44c1c65c/OptiRank.md)     
   [https://roxanneardary.com/optirank/](https://roxanneardary.com/optirank/)   
