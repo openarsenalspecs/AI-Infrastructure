@@ -89,7 +89,7 @@ CampGrid is a modular campground management specification connecting sites, rese
   [https://roxanneardary.com/codeclear/](https://roxanneardary.com/codeclear/)   
   An open source AI platform that analyzes laws, detects validity and contradictions, and maps public funding for full governance transparency.
 
-- **CryptoGate**   
+- [**CryptoGate Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/b8fba772a4e566a41ed956cd764cae4fde8c6c42/CryptoGate.md)     
   [https://roxanneardary.com/cryptogate/](https://roxanneardary.com/cryptogate/)   
   An open-source, zero-knowledge authentication platform that replaces traditional passwords with secure, device-bound cryptographic identities. It supports distributed multi-factor approval and phishing-resistant passkeys.
 
