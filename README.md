@@ -201,7 +201,7 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
 [https://roxanneardary.com/nextspark/](https://roxanneardary.com/nextspark/)
 NextSpark is a modular developer speed booster pack for Next.js that accelerates workflows, automates repetitive tasks, and improves the development experience without requiring migration. Built with a core module architecture and optional plugins, NextSpark helps developers build, debug, optimize, and publish applications faster.  
 
-- **NixFiles**   
+- [**NixFiles Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/e1eaa62d18259ecd7b5a786ceae4ac7eb2a8a24f/Nix%20Flakes.md)     
   [https://roxanneardary.com/nixfiles/](https://roxanneardary.com/nixfiles/)   
   A reproducible multi-host system configuration using Nix Flakes to manage desktops, laptops, and servers from a single declarative source.
 
