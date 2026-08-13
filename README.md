@@ -137,9 +137,9 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://roxanneardary.com/idea2reality/](https://roxanneardary.com/idea2reality/)   
   An open-source industrial intelligence platform that transforms ideas into optimized, manufacturable hardware and software systems. It uses AI-driven design, logistics, and workforce planning.  
 
-- **ImpactCom**   
+- [**ImpactCom Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/3803fd34179fc7a9713c48acb27935070d318d9b/ImpactComimpact.md)     
   [https://roxanneardary.com/impactcom/](https://roxanneardary.com/impactcom/)   
-  Decentralized, peer-to-peer commodity trading platform with smart contract escrow, FarmLedger integration, and transparent, accountable transactions.
+  Decentralized, peer-to-peer commodity trading platform with smart contract escrow, FarmLedger integration, and transparent, accountable transactions.  
 
 - [**InfernoWatchAI Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/959e3875439100416a046ec006cf28f2777b8603/InfernoWatchAI.md)     
   [https://roxanneardary.com/infernowatchai/](https://roxanneardary.com/infernowatchai/)   
