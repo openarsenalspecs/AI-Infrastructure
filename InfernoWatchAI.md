@@ -1,185 +1,753 @@
-# 🔥 InfernoWatchAI  
-### **From Orbit to Alert in Seconds.**  
-**Open-Source U.S. Wildfire Detection Platform Using Satellite Intelligence + Advanced AI**
+# InfernoWatchAI Specification
+**From Orbit to Alert in Seconds.**  
 
----
+## Project Identity
 
-## 🌎 Overview
+**InfernoWatchAI** is an open-source, AI-powered wildfire detection and intelligence platform designed for the United States.
 
-**InfernoWatchAI** is a national-scale, open-source wildfire detection and intelligence system for the United States.  
-Inspired by Australia’s world-leading wildfire platforms, this project integrates:
+InfernoWatchAI combines satellite observation, artificial intelligence, multispectral analysis, environmental intelligence, geospatial processing, sensor fusion, predictive modeling, public alerts, and open data services into a modular platform for detecting, analyzing, monitoring, and forecasting wildfire activity.
 
-- Real-time satellite data  
-- Thermal anomaly detection  
-- AI smoke analysis  
-- Multi-sensor fusion  
-- Fire spread forecasting  
-- Public dashboards & APIs  
+The platform is designed for emergency organizations, researchers, governments, communities, developers, universities, citizen scientists, and other authorized users who need timely wildfire intelligence.
 
-All software is licensed under **AGPL 3.0+**, with required attribution to **Roxanne Ardary** and **roxanneardary.com** as specified in Section 7.
+InfernoWatchAI is designed as a modular system so that satellite providers, AI models, sensors, datasets, forecasting methods, alert systems, and visualization components can be added or replaced without requiring the entire platform to be redesigned.
 
----
+## Design Principles
 
-# 🚀 Key Features
+- Open-source development
+- Modular architecture
+- Interoperable data sources
+- Vendor-neutral integrations
+- Transparent detection methodology
+- Explainable confidence scoring
+- Human verification where appropriate
+- Reproducible research workflows
+- Privacy-conscious data handling
+- Geographic scalability
+- Real-time processing where data availability permits
+- Historical analysis
+- Extensible artificial intelligence
+- Public data accessibility
+- Clear separation between automated intelligence and authoritative emergency instructions
 
-## 🔭 1. Real-Time Satellite Fire Detection
-Uses multiple satellite systems for high-precision detection:
-- **GOES-16 / GOES-18** (5–10 min refresh)  
-- **VIIRS** (high-resolution thermal anomalies)  
-- **MODIS** (global daily imaging)  
-- **Landsat** (optional high-res confirmation)
+## Core Modules
 
----
+### Satellite Intelligence Module
 
-## 🔥 2. Multi-Sensor Fusion
-Combines data from:
-- Infrared satellite bands  
-- Thermal anomalies  
-- AI smoke signatures  
-- Lightning strike data  
-- Fuel dryness & vegetation maps  
-- Weather conditions (humidity, wind, temperature)
+The Satellite Intelligence Module provides the primary remote sensing layer for wildfire detection.
 
-This produces a **Confidence Score** for every detection.
+Capabilities include:
 
----
+- Integration with geostationary satellite observations
+- Integration with polar-orbiting satellite observations
+- Thermal infrared analysis
+- Shortwave infrared analysis
+- Multispectral imagery processing
+- Satellite observation timestamp management
+- Satellite coverage monitoring
+- Cross-satellite observation comparison
+- Historical satellite observation processing
+- Satellite data quality assessment
+- Satellite data provenance tracking
+- Extensible satellite provider interfaces
 
-## 🔥 3. AI Thermal Anomaly Detection
-Neural models identify:
-- Early-stage ignition points  
-- Nighttime fires  
-- Hidden hotspots  
-- Industrial false positives (filtered automatically)
+The module must support multiple satellite sources without requiring the detection system to depend on a single provider.
 
----
+### Fire Detection Module
 
-## 🌫️ 4. AI Smoke Detection & Plume Tracking
-Vision Transformer model for:
-- Smoke plume segmentation  
-- Forecast drift paths  
-- Air quality impact zones  
-- Fire confirmation
+The Fire Detection Module identifies potential fire activity from satellite and sensor observations.
 
----
+Capabilities include:
 
-## 🔮 5. Fire Growth & Spread Forecasting
-Predictive modeling includes:
-- Short-term (1–6 hour) projection  
-- Weather-driven spread  
-- Terrain + slope factors  
-- Fuel dryness modeling  
-- ConvLSTM and diffusion-based fire forecasting
+- Thermal anomaly detection
+- Hotspot identification
+- Early ignition detection
+- Nighttime fire detection
+- Temporal anomaly analysis
+- Spatial anomaly analysis
+- Cross-observation confirmation
+- Detection event creation
+- Detection timestamping
+- Geographic coordinate assignment
+- Detection source identification
+- Detection confidence generation
 
----
+The module must distinguish between observed anomalies and confirmed incidents.
 
-## 🗺️ 6. Public Dashboard
-Dashboard displays:
-- Live fire detections  
-- Confidence levels  
-- Smoke plumes  
-- Satellite layers  
-- Weather overlays  
-- Time-lapse playback  
-- Historical trends  
+### AI Vision Module
 
----
+The AI Vision Module provides computer vision capabilities for interpreting satellite and aerial imagery.
 
-## 📡 7. Open API
-### **REST Endpoints**
-- `/fires/live`  
-- `/fires/history`  
-- `/fires/confidence`  
-- `/smoke/plumes`  
-- `/risk/today`  
+Capabilities include:
 
-### **WebSockets**
-- `/stream/fires`  
-- `/stream/smoke`
+- Thermal image classification
+- Multispectral image classification
+- Smoke detection
+- Smoke segmentation
+- Cloud discrimination
+- Fire signature recognition
+- Industrial heat-source classification
+- Agricultural burn classification
+- Prescribed burn classification
+- Image-based anomaly recognition
+- Multi-temporal image comparison
+- Model confidence estimation
 
----
+The module must support interchangeable AI models and must retain model provenance for each inference.
 
-## 🧪 8. Examples
-Located in `/examples/`:
-- Python Quickstart  
-- JavaScript live map integration  
-- CLI daily fire report generator  
+### Smoke Intelligence Module
 
----
+The Smoke Intelligence Module detects, maps, and analyzes smoke associated with potential wildfire events.
 
-## 📚 9. Historical Fire Intelligence
-Includes datasets and analysis for:
-- 15+ years of VIIRS/MODIS data  
-- Fire clusters  
-- Ignition frequency by region  
-- Multi-year spread trends  
-- Environmental correlations  
+Capabilities include:
 
----
+- Smoke plume detection
+- Smoke segmentation
+- Plume boundary estimation
+- Plume direction analysis
+- Wind-assisted plume forecasting
+- Smoke movement modeling
+- Smoke impact mapping
+- Smoke confidence scoring
+- Historical smoke analysis
+- Air-quality data correlation
 
-# 🧠 Architecture Summary
+Smoke detection must remain distinguishable from confirmed fire detection.
 
-## 🛰️ Data Pipeline
-1. Satellite Ingestion  
-2. Preprocessing  
-3. Spectral Band Extraction  
-4. Heat Anomaly Detection  
-5. Smoke Segmentation  
-6. Multi-Sensor Fusion  
-7. Confidence Scoring  
-8. Alert Publication  
+### Multi-Sensor Fusion Module
 
-## 🧩 System Components
-- **AI Models** (hotspot, smoke, false-positive filter, spread forecast)  
-- **API Layer** (REST + WebSockets)  
-- **Dashboard** (map viewer with layers)  
-- **Data Storage** (time-series fire DB)
+The Multi-Sensor Fusion Module combines independent observations to improve detection confidence.
 
----
+Supported information may include:
 
-# 🔐 Confidence Scoring
+- Satellite thermal observations
+- Satellite imagery
+- Smoke detections
+- Lightning observations
+- Weather observations
+- Wind conditions
+- Temperature
+- Humidity
+- Vegetation conditions
+- Fuel conditions
+- Terrain
+- Elevation
+- Ground sensors
+- Aerial observations
+- Community reports
+- Authoritative incident information
 
-- **Low** – Possible heat source  
-- **Medium** – Likely wildfire  
-- **High** – Confirmed wildfire (thermal + smoke alignment)
+The module must maintain the provenance of contributing observations and provide an explainable basis for calculated confidence.
 
----
+### Confidence and Verification Module
 
-# 🌬️ Smoke Intelligence
+The Confidence and Verification Module evaluates the reliability of detected events.
 
-The smoke module provides:
-- Real-time plume mapping  
-- Forecasted drift paths  
-- Air quality risk zones  
-- Hazard radius estimates  
+Capabilities include:
 
----
+- Detection confidence scoring
+- Multi-source confirmation
+- Evidence weighting
+- False-positive assessment
+- Human verification
+- Community verification
+- Verification status tracking
+- Conflicting observation handling
+- Duplicate detection identification
+- Model confidence calibration
+- Confidence history
+- Verification provenance
 
-# 🧭 Roadmap (Highlights)
+Suggested detection classifications include:
 
-- Mobile app for public alerts  
-- Predictive burn modeling  
-- Lightning-ignition correlation  
-- State-level emergency integrations  
-- Wildland-urban interface (WUI) maps  
-- Multi-day spread projections  
+- Possible anomaly
+- Probable fire
+- High-confidence fire detection
+- Externally confirmed incident
 
-See **ROADMAP.md** for the complete plan.
+Automated detection must not be represented as authoritative confirmation unless an authoritative source has independently confirmed the incident.
 
----
+### False Positive Intelligence Module
 
-# 🤝 Contributing
+The False Positive Intelligence Module identifies recurring sources of non-wildfire thermal anomalies.
 
-Contributions are welcome!  
-Please read the following before opening PRs:
+Potential classifications include:
 
-- **CONTRIBUTING.md**  
-- **CODE_OF_CONDUCT.md**
+- Industrial facilities
+- Refineries
+- Power generation facilities
+- Agricultural burns
+- Prescribed burns
+- Construction activity
+- Land management operations
+- Gas flares
+- Other persistent thermal sources
 
----
+The module may maintain historical spatial signatures to reduce repeated false detections.
 
-# 🛡️ Security
+### Weather Intelligence Module
 
-To report a vulnerability, follow the process described in **SECURITY.md**.
+The Weather Intelligence Module incorporates meteorological conditions relevant to fire detection and behavior.
+
+Capabilities include:
+
+- Wind speed
+- Wind direction
+- Temperature
+- Relative humidity
+- Atmospheric conditions
+- Precipitation
+- Weather history
+- Forecast integration
+- Weather anomaly analysis
+- Fire-weather correlation
+- Smoke movement inputs
+- Fire spread model inputs
+
+Weather observations must be timestamped and geographically associated with the corresponding fire intelligence event.
+
+### Lightning Intelligence Module
+
+The Lightning Intelligence Module identifies lightning observations that may correlate with wildfire ignition.
+
+Capabilities include:
+
+- Lightning event ingestion
+- Geographic correlation
+- Temporal correlation
+- Lightning-to-fire association
+- Ignition probability analysis
+- Historical lightning ignition analysis
+- Lightning density mapping
+
+Lightning correlation must be treated as supporting evidence rather than definitive proof of ignition.
+
+### Vegetation and Fuel Intelligence Module
+
+The Vegetation and Fuel Intelligence Module evaluates environmental conditions affecting wildfire ignition and behavior.
+
+Capabilities include:
+
+- Vegetation classification
+- Vegetation condition analysis
+- Fuel condition analysis
+- Fuel dryness indicators
+- Historical vegetation comparison
+- Geographic fuel mapping
+- Fire behavior model inputs
+- Risk assessment inputs
+
+### Terrain Intelligence Module
+
+The Terrain Intelligence Module provides geospatial information for understanding fire behavior.
+
+Capabilities include:
+
+- Elevation analysis
+- Slope analysis
+- Aspect analysis
+- Terrain classification
+- Geographic barriers
+- Fire spread model inputs
+- Infrastructure proximity analysis
+- Wildland-urban interface analysis
+
+### Fire Risk Intelligence Module
+
+The Fire Risk Intelligence Module evaluates conditions associated with potential wildfire activity.
+
+Capabilities include:
+
+- Ignition risk analysis
+- Environmental risk scoring
+- Weather risk analysis
+- Fuel condition analysis
+- Lightning correlation
+- Historical fire frequency
+- Geographic risk mapping
+- Wildland-urban interface risk
+- Risk trend analysis
+
+Risk predictions must be clearly separated from active fire detections.
+
+### Fire Spread Forecasting Module
+
+The Fire Spread Forecasting Module estimates potential short-term fire movement.
+
+Capabilities include:
+
+- Fire growth modeling
+- Short-term spread projections
+- Weather-driven modeling
+- Terrain-aware modeling
+- Fuel-aware modeling
+- Historical behavior comparison
+- Multiple forecast scenarios
+- Forecast confidence
+- Forecast uncertainty
+- Forecast update cycles
+
+Forecasts must identify their prediction time, data inputs, model version, confidence, and uncertainty.
+
+### Historical Fire Intelligence Module
+
+The Historical Fire Intelligence Module provides long-term analysis of wildfire activity.
+
+Capabilities include:
+
+- Historical hotspot analysis
+- Fire frequency analysis
+- Fire duration analysis
+- Ignition pattern analysis
+- Regional fire comparisons
+- State-level analysis
+- Geographic clustering
+- Historical smoke analysis
+- Historical spread analysis
+- Environmental correlation
+- Lightning ignition research
+- Long-term trend analysis
+
+### Geospatial Intelligence Module
+
+The Geospatial Intelligence Module provides geographic processing throughout the platform.
+
+Capabilities include:
+
+- Coordinate normalization
+- Geographic queries
+- Spatial indexing
+- Geographic boundaries
+- State and regional analysis
+- Wildland-urban interface mapping
+- Infrastructure proximity
+- Population exposure analysis
+- Fire perimeter visualization
+- Geographic event clustering
+- Map layer management
+
+### Alert and Notification Module
+
+The Alert and Notification Module distributes wildfire intelligence to subscribed users and integrated systems.
+
+Capabilities include:
+
+- Real-time fire alerts
+- Geographic alert zones
+- Smoke alerts
+- Fire spread alerts
+- Rapid-change notifications
+- Detection updates
+- Verification updates
+- Alert history
+- Alert provenance
+- Configurable notification channels
+- Geographic subscriptions
+- Coordinate-based subscriptions
+- Regional subscriptions
+
+Alerts must clearly identify whether information represents an automated detection, prediction, or independently confirmed incident.
+
+### Public Dashboard Module
+
+The Public Dashboard Module provides an interactive interface for viewing wildfire intelligence.
+
+Capabilities include:
+
+- National wildfire map
+- Regional wildfire maps
+- Active detection display
+- Confidence visualization
+- Smoke plume visualization
+- Satellite imagery layers
+- Thermal anomaly layers
+- Weather layers
+- Lightning layers
+- Vegetation layers
+- Fuel layers
+- Terrain layers
+- Fire risk layers
+- Fire perimeter layers
+- Historical fire layers
+- Fire spread projections
+- Detection timelines
+- Time-lapse playback
+- Data-source filtering
+- Confidence filtering
+- Historical analysis
+
+### API Module
+
+The API Module provides programmatic access to InfernoWatchAI intelligence.
+
+The API should support services for:
+
+- Live fire detections
+- Historical fire detections
+- Detection confidence
+- Smoke intelligence
+- Fire risk
+- Fire spread forecasts
+- Incident timelines
+- Geographic queries
+- Historical analysis
+- Data provenance
+- Model metadata
+
+The API should support both request-based and event-streaming interfaces where appropriate.
+
+### Streaming Module
+
+The Streaming Module distributes real-time intelligence to connected applications.
+
+Capabilities include:
+
+- Fire detection streams
+- Smoke detection streams
+- Alert streams
+- Verification updates
+- Forecast updates
+- Geographic event streams
+- Model event notifications
+
+### Community Intelligence Module
+
+The Community Intelligence Module allows authorized users to submit observations that may assist detection and verification.
+
+Capabilities include:
+
+- Fire reports
+- Smoke reports
+- Geographic observations
+- Field verification
+- Photographic evidence
+- Video evidence
+- Observation timestamps
+- Geographic metadata
+- Duplicate report detection
+- Moderation
+- Verification scoring
+
+Community information must remain distinguishable from satellite detections and authoritative emergency information.
+
+### Research Module
+
+The Research Module provides tools for scientific investigation and reproducible analysis.
+
+Capabilities include:
+
+- Dataset exploration
+- Historical analysis
+- Model evaluation
+- Fire behavior research
+- Smoke research
+- Lightning ignition research
+- Environmental correlation
+- Geographic analysis
+- Data export
+- Reproducible research workflows
+- Research metadata
+
+### Data Provenance Module
+
+The Data Provenance Module records the origin and processing history of information used by the platform.
+
+Capabilities include:
+
+- Data-source identification
+- Observation timestamps
+- Processing timestamps
+- Model identification
+- Model version tracking
+- Transformation history
+- Detection provenance
+- Forecast provenance
+- Verification provenance
+- Dataset references
+
+### Model Management Module
+
+The Model Management Module manages AI and analytical models used throughout the platform.
+
+Capabilities include:
+
+- Model registration
+- Model versioning
+- Model metadata
+- Model provenance
+- Model validation
+- Performance tracking
+- Confidence calibration
+- Model comparison
+- Model retirement
+- Model replacement
+- Human review workflows
+
+### Security Module
+
+The Security Module protects platform infrastructure, data, APIs, models, and alerting systems.
+
+Capabilities include:
+
+- Authentication support
+- Authorization
+- API rate limiting
+- Input validation
+- Data integrity checks
+- Audit logging
+- Model integrity monitoring
+- Alert integrity monitoring
+- Abuse prevention
+- Security event tracking
+- Responsible vulnerability reporting
+
+### Privacy Module
+
+The Privacy Module limits unnecessary collection and processing of personal information.
+
+Capabilities include:
+
+- Data minimization
+- Privacy-aware community reporting
+- Removal or restriction of unnecessary personal information
+- Access controls
+- Retention policies
+- Privacy documentation
+- Protection of sensitive location information where applicable
+
+### Transparency Module
+
+The Transparency Module communicates system behavior and limitations to users.
+
+Capabilities include:
+
+- Detection methodology documentation
+- Confidence explanations
+- Data-source identification
+- Model identification
+- Known limitations
+- Data latency indicators
+- Coverage limitations
+- False-positive documentation
+- Uncertainty reporting
+- Verification status
+- System status information
+
+### Integration Module
+
+The Integration Module provides standardized interfaces for external systems.
+
+Potential integrations include:
+
+- Government data services
+- Fire agency information systems
+- Emergency management platforms
+- Geographic information systems
+- Weather services
+- Satellite providers
+- Research platforms
+- Public information systems
+- Notification services
+
+Integrations must remain modular so that an external service can be replaced without redesigning the core platform.
+
+## Optional Plugin Modules
+
+### Additional Satellite Plugin
+
+Provides additional satellite imagery and observation sources without modifying the core satellite intelligence module.
+
+### Ground Sensor Plugin
+
+Supports fixed or mobile ground-based fire, temperature, smoke, weather, or environmental sensors.
+
+### Drone Intelligence Plugin
+
+Provides optional ingestion and analysis of authorized drone imagery and observations.
+
+### Aircraft Intelligence Plugin
+
+Provides optional integration of aerial imagery and aircraft-based observation systems.
+
+### Advanced AI Model Plugin
+
+Allows additional computer vision, transformer, temporal, multimodal, or other machine learning models to be deployed as interchangeable detection components.
+
+### Advanced Smoke Modeling Plugin
+
+Provides alternative smoke dispersion and plume forecasting models.
+
+### Advanced Fire Behavior Plugin
+
+Provides additional fire spread and behavior models.
+
+### Air Quality Plugin
+
+Integrates air quality observations and forecasts for enhanced smoke impact analysis.
+
+### Emergency Alert Plugin
+
+Connects InfernoWatchAI with compatible emergency notification systems.
+
+### Mobile Application Plugin
+
+Provides optional mobile interfaces for alerts, maps, field verification, and community observations.
+
+### GIS Plugin
+
+Provides additional geographic information system capabilities and external GIS integrations.
+
+### Local Government Plugin
+
+Provides optional integration with municipal, county, state, or regional data services.
+
+### Fire Agency Plugin
+
+Provides optional integration with participating fire agencies and authorized incident information systems.
+
+### Community Reporting Plugin
+
+Provides expanded public reporting, verification, moderation, and citizen-science capabilities.
+
+### Research Dataset Plugin
+
+Provides optional research datasets and specialized analytical collections.
+
+### Edge Processing Plugin
+
+Allows supported detection and analysis workflows to operate on remote or local computing systems where network connectivity is limited.
+
+### Offline Field Plugin
+
+Provides optional offline access to selected maps, observations, verification workflows, and cached intelligence for field users.
+
+## Data Requirements
+
+InfernoWatchAI should support data that is:
+
+- Geographically referenced
+- Time referenced
+- Source identified
+- Machine-readable where possible
+- Documented
+- Reproducible
+- Versioned where applicable
+- Legally available for the intended use
+
+Each major observation should retain sufficient metadata to establish when, where, and from which source the observation originated.
+
+## Detection Lifecycle
+
+A standard detection lifecycle should include:
+
+- Observation acquisition
+- Data validation
+- Preprocessing
+- Anomaly detection
+- AI classification
+- Cross-source comparison
+- False-positive assessment
+- Confidence scoring
+- Geographic association
+- Verification
+- Alert generation
+- Public visualization
+- Historical storage
+- Continuous updating
+
+## Forecast Lifecycle
+
+A standard forecasting lifecycle should include:
+
+- Collection of current observations
+- Collection of environmental conditions
+- Terrain and fuel analysis
+- Selection of applicable forecasting model
+- Generation of forecast scenarios
+- Confidence and uncertainty assessment
+- Forecast publication
+- Forecast visualization
+- Continuous model updates
+- Comparison between forecast and observed conditions
+
+## Alert Lifecycle
+
+A standard alert lifecycle should include:
+
+- Detection or forecast creation
+- Confidence assessment
+- Geographic determination
+- Alert classification
+- Notification generation
+- Distribution
+- User acknowledgment where supported
+- Subsequent observation updates
+- Verification updates
+- Alert closure
+- Historical retention
+
+## Human Verification
+
+Human verification may be used when automated evidence is uncertain, conflicting, or operationally significant.
+
+Verification workflows should provide:
+
+- Detection information
+- Source observations
+- Confidence information
+- Satellite imagery
+- Environmental context
+- Historical context
+- Available community observations
+- Available authoritative information
+- Verification status
+- Reviewer notes
+
+## Reproducibility
+
+InfernoWatchAI must document the methods used to produce significant analytical results.
+
+Documentation should identify:
+
+- Data sources
+- Processing methods
+- Model versions
+- Important configuration parameters
+- Processing timestamps
+- Geographic scope
+- Known limitations
+- Validation methods
+
+## Safety Requirements
+
+InfernoWatchAI is an intelligence and detection platform and must not represent automated predictions as guaranteed outcomes.
+
+Public-facing interfaces should distinguish between:
+
+- Detection
+- Probable detection
+- Prediction
+- Risk assessment
+- Community report
+- Human verification
+- Authoritative incident information
+
+Emergency instructions should originate from appropriate emergency authorities rather than from automated InfernoWatchAI predictions.
+
+## Contribution Requirements
+
+Contributors should:
+
+- Propose significant features before implementation.
+- Document changes.
+- Preserve required attribution.
+- Document new data sources.
+- Document new models.
+- Explain changes to detection or forecasting logic.
+- Update relevant technical documentation.
+- Identify changes affecting security or privacy.
+- Preserve reproducibility.
+- Avoid introducing unnecessary personal information.
+- Follow project licensing requirements.
 
 ---
 
