@@ -245,9 +245,9 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/polyconnect/](https://roxanneardary.com/polyconnect/)   
   PolyConnect is an open-source, fully encrypted, stateless unified API platform that connects and manages multiple third-party services through a single modular system.
 
-- **Protego**   
+- [**Protego Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/66e6b8be066c7aa1822f763ebe7a506b4375bea2/Protego.md)     
   [https://roxanneardary.com/protego/](https://roxanneardary.com/protego/)   
-  An open-source, AI-powered browser privacy and security platform that protects users from tracking, unsafe extensions, intrusive advertising, and deceptive consent systems across all major browsers.
+  An open-source, AI-powered browser privacy and security platform that protects users from tracking, unsafe extensions, intrusive advertising, and deceptive consent systems across all major browsers.  
 
 - **ProviderLedger**   
   [https://roxanneardary.com/providerledger/](https://roxanneardary.com/providerledger/)   
