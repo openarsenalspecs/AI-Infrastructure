@@ -145,9 +145,9 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://roxanneardary.com/infernowatchai/](https://roxanneardary.com/infernowatchai/)   
   From orbit to alert in seconds, an open-source AI platform for real-time wildfire detection, prediction, and public intelligence.
 
-- **IntegrityLayer**   
+- [**IntegrityLayer Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/cea6f6c2ee67c9c339ea4c3ffd1979ece988c3e4/IntegrityLayer.md)     
   [https://roxanneardary.com/integritylayer/](https://roxanneardary.com/integritylayer/)   
-  Open-source identity integrity infrastructure that verifies real, unique humans through privacy-preserving KYC, liveness detection, and fraud network prevention.
+  Open-source identity integrity infrastructure that verifies real, unique humans through privacy-preserving KYC, liveness detection, and fraud network prevention.  
 
 - **IntelliFeed**   
   [https://roxanneardary.com/intellifeed/](https://roxanneardary.com/intellifeed/)   
