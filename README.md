@@ -113,9 +113,9 @@ EdgeGateway is an open modular specification for secure edge device onboarding, 
   [https://roxanneardary.com/foodmesh/](https://roxanneardary.com/foodmesh/)  
 FoodMesh is an open-source, modular logistics specification that connects farmers, carriers, distributors, and communities through a shared transportation network. It provides transparent shipment tracking, multi-farm load coordination, GPS verification, truck-aware routing, and delivery validation to build resilient and decentralized food systems.  
 
-- **GoldenLens**   
+- [**GoldenLens Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/6c7171a78000f017ed118e6ff2247f30150d11ed/GoldenLens.md)     
   [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)   
-  An open-source AI application that helps users explore multiple perspectives of their thoughts and experiences. It supports clarity, empathy, and mental well-being.
+  An open-source AI application that helps users explore multiple perspectives of their thoughts and experiences. It supports clarity, empathy, and mental well-being.  
 
 - [**HelixERP Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/df5d02a97ccbdf2ceb9fe6e37c9306bbccca9d1d/HelixERP.md)     
   [https://roxanneardary.com/helixerp/](https://roxanneardary.com/helixerp/)   
