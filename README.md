@@ -101,9 +101,9 @@ CampGrid is a modular campground management specification connecting sites, rese
 [https://roxanneardary.com/edgegateway/](https://roxanneardary.com/edgegateway/)  
 EdgeGateway is an open modular specification for secure edge device onboarding, identity management, lifecycle governance, and zero-trust infrastructure. It provides a vendor-neutral framework for building trusted edge ecosystems through cryptographic identity, policy enforcement, monitoring, and interoperable device management.  
 
-- **EquiChain**   
+- [**EquiChain Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/fd1953f3c7ba0161421ac937b8d6ecf6b695e9e6/EquiChain.md)     
   [https://roxanneardary.com/equichain/](https://roxanneardary.com/equichain/)   
-  An open-source platform for private equity management, dividend automation, transparent investor records, and mission-driven business growth.
+  An open-source platform for private equity management, dividend automation, transparent investor records, and mission-driven business growth.  
 
 - **Evidence Chain Network**   
   [https://roxanneardary.com/evidence-chain-network/](https://roxanneardary.com/evidence-chain-network/)   
