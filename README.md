@@ -129,9 +129,9 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://roxanneardary.com/horizon-runtime/](https://roxanneardary.com/horizon-runtime/)   
   An AGPL-3.0+ universal AI runtime built for adaptive mixed-precision inference, reasoning models, multimodal workloads, and scalable open-source AI infrastructure across local, enterprise, and distributed environments.
 
-- **HouseLens**   
+- [**HouseLens Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/46b2c3a87faae18ef54ec12235e8b080c6c37d93/HouseLens.md)     
   [https://roxanneardary.com/houselens/](https://roxanneardary.com/houselens/)   
-  An open-source AI-powered platform that helps buyers and renters analyze property disclosures, verify compliance, and uncover risks before making a real estate decision.
+  An open-source AI-powered platform that helps buyers and renters analyze property disclosures, verify compliance, and uncover risks before making a real estate decision.  
 
 - [**Idea2Reality Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/3d8c618845dc74dae193cb28611a25ce42d82853/Idea2Reality.md)     
   [https://roxanneardary.com/idea2reality/](https://roxanneardary.com/idea2reality/)   
