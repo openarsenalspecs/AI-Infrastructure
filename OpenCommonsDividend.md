@@ -1,6 +1,8 @@
 # OpenCommonsDividend
+**Returning Public Surplus to the People**
+- HTML Mirror: [https://roxanneardary.com/open-commons-dividend-specification/](https://roxanneardary.com/open-commons-dividend-specification/)
 
-## Returning Public Surplus to the People
+---
 
 OpenCommonsDividend is an open-source civic finance platform designed to identify verified financial surplus and distribute it fairly among residents, stakeholders, or organizational members.
 
@@ -491,17 +493,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
----
-
-## Ethical Use & Public Interest Statement
-OpenCommonsDividend is intended for **public good**. All contributors and users are expected to:
-
-- Use the platform to improve transparency and equity  
-- Avoid proprietary or closed-source forks that bypass public oversight  
-- Ensure **human oversight is recorded for all automated financial decisions**  
-- Maintain traceability and accountability in every action
-
----
-
-OpenCommonsDividend provides a **transparent, auditable, and equitable system** for distributing surplus funds, with humans always in the decision loop.
