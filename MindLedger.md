@@ -1,8 +1,10 @@
-# MindLedger – Modular Business Management Platform
+# MindLedger  
+**Living Version - Continuously Evolving**  
+- HTML Mirror:  [https://roxanneardary.com/mindledger-specification/](https://roxanneardary.com/mindledger-specification/)
 
-**Living Version**
+---
 
-> MindLedger is continuously evolving. Modules and features are updated as technology improves, open-source components are released, and laws change. The AI core ensures system integrity, compliance, security, and continuous improvement.
+MindLedger is continuously evolving. Modules and features are updated as technology improves, open-source components are released, and laws change. The AI core ensures system integrity, compliance, security, and continuous improvement.
 
 ---
 
@@ -383,61 +385,6 @@ Features:
 - AI validation
 - Community changelog
 - Celebration announcements for accepted innovations
-
----
-
-## Mobile Companion Plugin
-
-Features:
-
-- Mobile access
-- Voice commands
-- Notifications
-- Appointment management
-- Client lookup
-- Quick billing actions
-
----
-
-# Development Philosophy
-
-MindLedger follows these principles:
-
-- Open-source forever
-- Modular architecture
-- User ownership of data
-- Privacy-first design
-- End-to-end encryption
-- Human-controlled AI assistance
-- Continuous improvement
-- Community-driven innovation
-- No proprietary lock-in
-
----
-
-# Contributing
-
-Contributions are welcome.
-
-Developers, designers, businesses, and users can contribute:
-
-- Code improvements
-- Security enhancements
-- New modules
-- Industry templates
-- Workflow improvements
-- Documentation
-- Accessibility improvements
-
-All contributions must follow the AGPL-3.0+ licensing requirements.
-
----
-
-# Vision
-
-MindLedger is designed to become a complete, adaptable business operating system where businesses can manage customers, schedules, finances, employees, compliance, and operations from one secure platform.
-
-Through modular architecture and AI assistance, MindLedger continuously evolves with the needs of its users.
 
 ---
 
