@@ -217,9 +217,9 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/opencluster/](https://roxanneardary.com/opencluster/)   
   A modular, federated, open-source infrastructure platform designed for sovereign AI, distributed compute, municipal resilience, and community-owned infrastructure. It is built around open standards, repairability, and long-term sustainability.
 
-- [**Open Commons Dividend Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/f9e975f736c61874289168db0d55ae7eb90e40e2/OpenCommonsDividend.md)     
+- [**Open Commons Dividend Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/aee8ccd0f6e8bfb1b6375077ce4f2e7956f66781/OpenCommonsDividend.md)     
   [https://roxanneardary.com/open-commons-dividend/](https://roxanneardary.com/open-commons-dividend/)   
-  An open-source civic finance platform built to provide transparent budgeting, AI-assisted auditing, citizen oversight, and equitable surplus dividend distribution with mandatory human-in-the-loop accountability.
+  An open-source civic finance platform built to provide transparent budgeting, AI-assisted auditing, citizen oversight, and equitable surplus dividend distribution with mandatory human-in-the-loop accountability.  
 
 - [**OpenProperty Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c153b71f4626c1550378b4aa8a5d5e9c89a0f5a2/OpenProperty.md)      
   [https://roxanneardary.com/openproperty/](https://roxanneardary.com/openproperty/)   
