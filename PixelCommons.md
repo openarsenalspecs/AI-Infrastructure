@@ -1,5 +1,8 @@
 # PixelCommons
-## Pixels. Verified. Secure.
+**Pixels. Verified. Secure.**
+- HTML Mirror:  [https://roxanneardary.com/pixelcommons-specification/](https://roxanneardary.com/pixelcommons-specification/)
+
+---
 
 PixelCommons is an open-source AGPL-3.0+ specification and modular PPC bot protection platform designed to verify legitimate visitors, detect automated traffic, and protect advertising campaigns from invalid clicks and fraudulent conversions.
 
@@ -351,11 +354,6 @@ Community contributions are welcome in:
 
 ---
 
-PixelCommons  
-**Pixels. Verified. Secure.**
-
----
-
 ## Specification Branding License (SBL)
 ### Standard
 - Fully AGPL-3.0+ compliant system
@@ -373,7 +371,7 @@ PixelCommons
 
 ---
 
-## 📜 License & Notice Requirements
+## License & Notice Requirements
 
 PixelCommons is released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
 By contributing to this project, you agree that your contributions will also be released under this license.
@@ -389,4 +387,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
