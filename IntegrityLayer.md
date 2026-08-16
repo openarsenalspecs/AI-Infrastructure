@@ -1,6 +1,8 @@
 # IntegrityLayer Specification
-
 **Where Every Human Is Singular.**
+- HTML Mirror:  [https://roxanneardary.com/integritylayer-specification/](https://roxanneardary.com/integritylayer-specification/)
+
+---
 
 ## Specification Overview
 
@@ -9,6 +11,8 @@ IntegrityLayer is an open-source identity integrity infrastructure specification
 The system is designed around the principle that a verified human identity should serve as the foundational identity for all authorized digital activity. IntegrityLayer extends conventional KYC beyond document verification by determining whether an individual is a real human, whether the identity is authentic, whether the identity already exists within the relevant identity domain, and whether subsequent accounts or activities can be reliably associated with that verified identity.
 
 IntegrityLayer is intended for integration with government services, financial systems, social networks, gaming platforms, marketplaces, forums, communities, applications, and other digital systems requiring reliable identity integrity.
+
+---
 
 ## Design Principles
 
@@ -953,18 +957,6 @@ Optional plugins shall remain independently deployable where practical.
 
 Core functionality shall not depend on a single vendor, cloud provider, database engine, biometric provider, or external identity service.
 
-## Interoperability
-
-IntegrityLayer shall support interoperability through:
-
-- Standardized APIs
-- Cryptographic proofs
-- Verifiable credentials where enabled
-- Configurable identity schemas
-- Database adapters
-- Event interfaces
-- Plugin interfaces
-
 ---
 
 ## Specification Branding License (SBL)
@@ -994,7 +986,7 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- IntegrityLayer specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- IntegrityLayer specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`.
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
