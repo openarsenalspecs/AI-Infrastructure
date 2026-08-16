@@ -69,7 +69,7 @@ CampGrid is a modular campground management specification connecting sites, rese
   [https://roxanneardary.com/carrychain/](https://roxanneardary.com/carrychain/)   
   An open-source, AGPL-3.0+ licensed marketplace and logistics network that enables direct, transparent trade between producers, carriers, and buyers. It operates without speculative pricing or intermediaries.
 
-- [**CipherCommand Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/b75b714d6775270c7aa36e4330b567cf261eb393/CipherCommand.md)     
+- [**CipherCommand Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/68547ad1692d90874e6fa13a8fb753f0e3e0fb40/CipherCommand.md)     
   [https://roxanneardary.com/ciphercommand/](https://roxanneardary.com/ciphercommand/)   
   A fully encrypted, open-source executive management platform that unifies dashboards, workflows, collaboration, and AI-driven insights. It enables secure, private, and intelligent decision-making.  
 
