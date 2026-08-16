@@ -1,8 +1,14 @@
-# CipherCommand - Lead Without Compromise
+# CipherCommand
+**Lead Without Compromise**
+- HTML Mirror:  [https://roxanneardary.com/ciphercommand-specification/](https://roxanneardary.com/ciphercommand-specification/)
+
+---
 
 CipherCommand is a fully encrypted, open-source executive management platform designed for secure decision-making, intelligent automation, private collaboration, and enterprise operations. It combines executive dashboards, workflow management, encrypted communications, document management, analytics, governance, and privacy-preserving AI within a modular architecture.
 
 CipherCommand is designed around end-to-end encryption, zero-trust security, local-first processing, interoperability, and user control. Sensitive information is encrypted before leaving trusted devices, with cryptographic controls designed to prevent the server from accessing protected content.
+
+---
 
 ## Vision
 
@@ -870,136 +876,6 @@ Plugins should:
 
 The plugin system must prevent optional functionality from weakening the security of the core platform.
 
-## Interoperability
-
-CipherCommand should favor open protocols and standards over proprietary interfaces.
-
-Interoperability goals include:
-
-- Open APIs.
-- Documented data formats.
-- Standard authentication protocols.
-- Standard cryptographic primitives.
-- Standard federation protocols where appropriate.
-- Portable exports.
-- Replaceable infrastructure components.
-- Vendor-neutral integrations.
-
-## Testing
-
-The project should maintain comprehensive testing across:
-
-- Unit tests.
-- Integration tests.
-- End-to-end tests.
-- Encryption tests.
-- Key-management tests.
-- Permission tests.
-- Synchronization tests.
-- Offline tests.
-- Plugin compatibility tests.
-- Performance tests.
-- Accessibility tests.
-- Security tests.
-- Dependency audits.
-- Regression tests.
-
-Cryptographic changes require additional security review before release.
-
-## Development Standards
-
-Development should emphasize:
-
-- Modular architecture.
-- Clear interfaces.
-- Secure defaults.
-- Minimal dependencies.
-- Strong type safety.
-- Automated testing.
-- Code review.
-- Security review.
-- Documentation.
-- Reproducible builds.
-- Dependency verification.
-- Performance profiling.
-- Accessibility.
-
-## Roadmap
-
-CipherCommand development should prioritize the following progression:
-
-### Foundation
-
-- Identity and access.
-- End-to-end encryption.
-- Secure storage.
-- Core dashboards.
-- Task management.
-- Document management.
-- Secure messaging.
-- Offline synchronization.
-
-### Intelligence
-
-- Local AI.
-- Executive summaries.
-- Analytics.
-- Scenario modeling.
-- Decision intelligence.
-- Anomaly detection.
-- Natural language search.
-
-### Collaboration
-
-- Secure meetings.
-- Collaborative editing.
-- Whiteboards.
-- Voting.
-- Advanced workflows.
-- Federation.
-
-### Enterprise
-
-- Advanced administration.
-- Compliance tools.
-- Enterprise identity.
-- Advanced integrations.
-- High availability.
-- Disaster recovery.
-
-### Advanced Privacy
-
-- Zero-knowledge proofs.
-- Secure multi-party computation.
-- Homomorphic encryption.
-- Federated AI.
-- Quantum-resistant cryptography.
-- Advanced privacy-preserving analytics.
-
-### Extensibility
-
-- Plugin APIs.
-- Plugin security framework.
-- Plugin marketplace infrastructure.
-- Developer SDKs.
-- External integration ecosystem.
-
-## Project Standards
-
-CipherCommand must remain:
-
-- Open source.
-- Privacy-first.
-- Security-first.
-- Modular.
-- Interoperable.
-- Self-hostable.
-- Accessible.
-- Performance-conscious.
-- Vendor-neutral.
-- Transparent.
-- User-controlled.  
-
 ---
 
 ## Specification Branding License (SBL)
@@ -1029,7 +905,7 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- CipherCommand specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- CipherCommand specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
