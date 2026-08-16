@@ -1,6 +1,8 @@
 # EquiChain
+**Code-Driven Equity, Mission-Driven Growth**
+- HTML Mirror: [https://roxanneardary.com/equichain-specification/](https://roxanneardary.com/equichain-specification/)
 
-**EquiChain — Code-Driven Equity, Mission-Driven Growth**
+---
 
 ## Specification
 
@@ -10,22 +12,7 @@ The system is designed around transparent ownership, responsible dividend progra
 
 EquiChain does not operate as a stock exchange or public securities marketplace. It is designed to help private businesses establish structured relationships with investors who intend to participate in the long-term development and longevity of the business.
 
-## Design Principles
-
-- Open source and vendor-neutral architecture
-- Modular and extensible design
-- Private-market equity management
-- Long-term investor alignment
-- Transparent financial reporting
-- Accurate and auditable records
-- Regulatory awareness and compliance support
-- Human approval for material financial and legal actions
-- Secure handling of investor and corporate information
-- Explainable financial calculations
-- Traceable ownership and transaction history
-- Portable data and open interfaces
-- Separation of public and confidential information
-- No automated assumption that a transaction is legally compliant without appropriate review
+---
 
 ## Core Modules
 
@@ -714,7 +701,7 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- **EquiChain** specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- **EquiChain** specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
