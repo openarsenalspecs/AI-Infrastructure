@@ -1,12 +1,14 @@
-# OpenSignal - Specification & Full Feature List
-
-**OpenSignal** is an open-source, cross-platform secure collaboration and communication platform designed around **end-to-end encryption, privacy-first architecture, optional federation, and privacy-safe AI integration**.
-
-**Tagline:** *Connect Securely. Build Confidently.*
+# OpenSignal
+**Connect Securely. Build Confidently.**
+- HTML Mirror: [https://roxanneardary.com/opensignal-specification/](https://roxanneardary.com/opensignal-specification/)
 
 ---
 
-## 1. Core Vision
+**OpenSignal** is an open-source, cross-platform secure collaboration and communication platform designed around **end-to-end encryption, privacy-first architecture, optional federation, and privacy-safe AI integration**.  
+
+---
+## Specification
+## Core Vision
 
 OpenSignal is built to function as a **zero-knowledge collaboration network**, where:
 
@@ -18,9 +20,9 @@ OpenSignal is built to function as a **zero-knowledge collaboration network**, w
 
 ---
 
-## 2. Core Platform Features
+## Core Platform Features
 
-### 🔐 End-to-End Encryption (E2EE)
+### End-to-End Encryption (E2EE)
 - All messages, files, and workspace data are encrypted on the client
 - Server only handles encrypted payloads (relay + storage)
 - Client-side key management only
@@ -29,7 +31,7 @@ OpenSignal is built to function as a **zero-knowledge collaboration network**, w
 
 ---
 
-### 💬 Real-Time Communication
+### Real-Time Communication
 - Encrypted messaging (1:1 and group)
 - Real-time presence indicators
 - Typing + activity signals (privacy-controlled)
@@ -38,7 +40,7 @@ OpenSignal is built to function as a **zero-knowledge collaboration network**, w
 
 ---
 
-### 🧩 Secure Workspaces
+### Secure Workspaces
 OpenSignal organizes collaboration into encrypted workspaces:
 
 - Chat + files + notes + tasks unified in one space
@@ -49,7 +51,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-### 📁 Encrypted File Collaboration
+### Encrypted File Collaboration
 - Real-time collaborative editing of documents
 - Encrypted file storage
 - Version history (encrypted snapshots)
@@ -58,7 +60,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-### ⚡ Cross-Platform Support
+### Cross-Platform Support
 - Windows
 - macOS
 - Linux
@@ -66,7 +68,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-## 3. AI — Privacy-Safe Architecture
+## AI - Privacy-Safe Architecture
 
 ### 🤖 Local AI (Default Mode)
 - Runs entirely on user device
@@ -79,7 +81,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-### 🔒 Optional Encrypted Remote AI
+### Optional Encrypted Remote AI
 - Inputs are encrypted before transmission
 - Server processes without access to plaintext (design goal)
 - Possible secure execution models:
@@ -89,7 +91,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-### 🧠 AI Safety Rules
+### AI Safety Rules
 - AI is scoped per workspace
 - No cross-workspace data leakage
 - No training on user data by default
@@ -97,7 +99,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-## 4. Federation System (Optional)
+## Federation System (Optional)
 
 ### 🌐 Federated Architecture
 - Self-hostable OpenSignal servers
@@ -107,7 +109,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-### 🔑 Identity System
+### Identity System
 - Portable cryptographic identity keys
 - Multi-device support under single identity
 - Cross-server authentication using public key identity
@@ -115,14 +117,14 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-### 🧭 Federation Modes
+### Federation Modes
 - Private Mode (single server / self-hosted only)
 - Trusted Federation (approved server list)
 - Open Federation (fully distributed network model)
 
 ---
 
-## 5. Collaboration System
+## Collaboration System
 
 ### 👥 Real-Time Sync
 - CRDT-based conflict-free editing
@@ -132,7 +134,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-### 🧾 Shared Context Layer
+### Shared Context Layer
 - Workspace memory (encrypted notes/context)
 - Shared task lists
 - Collaborative planning boards
@@ -140,22 +142,22 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-## 6. Security Model
+## Security Model
 
-### 🛡️ Zero-Knowledge Architecture
+### Zero-Knowledge Architecture
 - Server cannot decrypt any user data
 - No plaintext storage on backend systems
 - Client always performs encryption/decryption
 
 ---
 
-### 🔐 Transport Security
+### Transport Security
 - TLS 1.3 for all network traffic
 - Encrypted handshake protocols for session creation
 
 ---
 
-### 🔎 Plugin Security Model
+### Plugin Security Model
 - Sandboxed plugin execution
 - Capability-based permissions
 - No direct access to decrypted memory unless explicitly granted
@@ -163,7 +165,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-## 7. Plugin System
+## Plugin System
 
 - Extend functionality via modular plugins
 - Add:
@@ -176,7 +178,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-## 8. Version Control & History
+## Version Control & History
 
 - Optional encrypted Git integration
 - Workspace-level history tracking
@@ -185,7 +187,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-## 9. Performance Goals
+## Performance Goals
 
 - Lightweight client core
 - Fast startup time
@@ -195,7 +197,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-## 10. Offline-First Design
+## Offline-First Design
 
 - Full workspace access offline
 - Queued encrypted updates
@@ -204,7 +206,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-## 11. Identity & Access Control
+## Identity & Access Control
 
 - Cryptographic identity-based login
 - Device-level authorization
@@ -213,7 +215,7 @@ OpenSignal organizes collaboration into encrypted workspaces:
 
 ---
 
-## 12. Data Ownership Principles
+## Data Ownership Principles
 
 - Users fully own all generated data
 - No platform-level access to decrypted content
@@ -255,4 +257,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
