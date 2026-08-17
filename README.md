@@ -221,9 +221,9 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/open-commons-dividend/](https://roxanneardary.com/open-commons-dividend/)   
   An open-source civic finance platform built to provide transparent budgeting, AI-assisted auditing, citizen oversight, and equitable surplus dividend distribution with mandatory human-in-the-loop accountability.  
 
-- [**OpenProperty Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c153b71f4626c1550378b4aa8a5d5e9c89a0f5a2/OpenProperty.md)      
+- [**OpenProperty Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/e8aba4f433a0480459d52efddce866fc899b9dfa/OpenProperty.md)      
   [https://roxanneardary.com/openproperty/](https://roxanneardary.com/openproperty/)   
-  An open-source real estate transparency platform that uses AI to verify disclosures, permits, and compliance for buyers, renters, and sellers.
+  An open-source real estate transparency platform that uses AI to verify disclosures, permits, and compliance for buyers, renters, and sellers.  
 
 - [**OpenSignal Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/38184d4e1a15f59b70214eeb0bc69749fa42089b/OpenSignal.md)    
   [https://roxanneardary.com/opensignal/](https://roxanneardary.com/opensignal/)   
