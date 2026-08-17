@@ -149,7 +149,7 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://roxanneardary.com/integritylayer/](https://roxanneardary.com/integritylayer/)   
   Open-source identity integrity infrastructure that verifies real, unique humans through privacy-preserving KYC, liveness detection, and fraud network prevention.  
 
-- [**IntelliFeed Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/b9d6cca44df35572d24a9bd6f45e3b7394cb8003/IntelliFeed.md)     
+- [**IntelliFeed Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/16203c1ffdf94b765fbfc5381375a0994fdb31d3/IntelliFeed.md)  
   [https://roxanneardary.com/intellifeed/](https://roxanneardary.com/intellifeed/)   
   An open-source, user-controlled social feed system that delivers transparent, balanced, and intelligent content on your terms.  
 
