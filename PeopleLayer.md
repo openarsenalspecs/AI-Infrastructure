@@ -1,6 +1,8 @@
 # PeopleLayer Specification
-
 **Contribute, Verify, Repeat.**
+- HTML Mirror:  [https://roxanneardary.com/peoplelayer-specification/](https://roxanneardary.com/peoplelayer-specification/)
+
+---
 
 PeopleLayer is an open-source, modular specification for self-sovereign identity, verifiable credentials, portable reputation, privacy-preserving trust, and cross-platform contribution verification.
 
@@ -23,6 +25,8 @@ PeopleLayer is designed to:
 - Maintain local-first operation wherever practical.
 - Avoid vendor lock-in and proprietary identity dependencies.
 - Establish common standards for people-centered trust infrastructure.
+
+---
 
 ## Core Modules
 
@@ -919,10 +923,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- PeopleLayer specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- PeopleLayer specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`.  
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
