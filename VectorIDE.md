@@ -1,8 +1,10 @@
-# VectorIDE - Specification & Full Feature List
+# VectorIDE
+**Code Confidently.**
+- HTML Mirror: [https://roxanneardary.com/vectoride-specification/](https://roxanneardary.com/vectoride-specification/)
+
+---
 
 **VectorIDE** is an open-source, cross-platform integrated development environment (IDE) built to combine the best features of modern code editors and enterprise IDEs into a single, high-performance platform. Designed with a privacy-first philosophy, VectorIDE delivers intelligent development tools, end-to-end encrypted collaboration, and an extensible architecture without vendor lock-in.
-
-**Tagline:** *Code Confidently.*
 
 ---
 
@@ -373,14 +375,6 @@ Future targets:
 
 ---
 
-# Summary
-
-VectorIDE is designed to be the next generation of open-source development environments by combining the speed of modern editors, the capabilities of enterprise IDEs, privacy-first collaboration, and intelligent developer tools into one unified platform.
-
-**Code Confidently.**
-
----
-
 ## Specification Branding License (SBL)
 ### Standard
 - Fully AGPL-3.0+ compliant system
@@ -408,7 +402,7 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- VectorIDE specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- VectorIDE specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`.  
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
