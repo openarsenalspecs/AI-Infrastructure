@@ -233,7 +233,7 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/optirank/](https://roxanneardary.com/optirank/)   
   An open-source SEO and LLM optimization tool that analyzes existing website content and provides actionable insights to improve search rankings, semantic clarity, and AI discoverability.
 
-- [**PeopleLayer Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/977ee2db99c4a73622ec6555eefb709945624c07/PeopleLayer.md)     
+- [**PeopleLayer Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/6119ec467da4ec01b60975bdfb941d3abbcadb8e/PeopleLayer.md)   
   [https://roxanneardary.com/peoplelayer/](https://roxanneardary.com/peoplelayer/)   
   An open-source self-sovereign identity and portable reputation platform that lets users earn verifiable credentials, protect privacy, and carry trusted credibility across digital ecosystems.  
 
