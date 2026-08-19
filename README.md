@@ -21,7 +21,7 @@ The specification framework also prioritizes extensibility through open standard
 
 ## AI Infrastructure Specs
 
-- [**ActionCheck Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/6389ff4654c59149f4c808eed1f4d89cb183dddd/ActionCheck.md)    
+- [**ActionCheck Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/7d053f7945e35277351de589fe750d07d4867b4a/ActionCheck.md)    
   [https://roxanneardary.com/actioncheck/](https://roxanneardary.com/actioncheck/)   
   An open-source civic accountability platform that tracks political promises, voting records, financial disclosures, and conflicts of interest. It helps citizens make informed decisions through transparent data access.
 
