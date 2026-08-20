@@ -1,4 +1,7 @@
 # TaxGenie Specification
+- HTML Mirror:  [https://roxanneardary.com/taxgenie-specification/](https://roxanneardary.com/taxgenie-specification/)  
+
+---
 
 ## Overview
 
@@ -504,10 +507,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-
-# Contact
-
-For questions, collaboration, or feedback:
-
-Roxanne Ardary
-Website: https://roxanneardary.com
