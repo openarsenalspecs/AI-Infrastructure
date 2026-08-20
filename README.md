@@ -337,9 +337,9 @@ The Transparent Food Project is an open-source specification that provides tools
   [https://roxanneardary.com/truthlayer/](https://roxanneardary.com/truthlayer/)   
   An open-source product intelligence system that delivers verifiable, mathematically grounded comparisons of products using transparent and reproducible data analysis.
 
-- [**ValueGrid Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/53115e8a96f73ef4d38b65a116410ad08a57031d/ValueGrid.md)     
+- [**ValueGrid Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/94858ccc3319a5d84876f2e2f89dfbfe296dbe14/ValueGrid.md)     
   [https://roxanneardary.com/valuegrid/](https://roxanneardary.com/valuegrid/)   
-  An open-source property intelligence platform that provides transparent valuation models, environmental risk analysis, and a publicly verifiable National Property Ledger.
+  An open-source property intelligence platform that provides transparent valuation models, environmental risk analysis, and a publicly verifiable National Property Ledger.  
 
 - [**VectorIDE Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/304236657034a8601707a8e8374891b41f96b526/VectorIDE.md)  
   [https://roxanneardary.com/vectoride/](https://roxanneardary.com/vectoride/)   
