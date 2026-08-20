@@ -309,9 +309,9 @@ SentinelMesh is an AI governance specification for intelligent oversight of arti
   [https://roxanneardary.com/synchrofab/](https://roxanneardary.com/synchrofab/)   
   AI-driven smart factory platform integrating edge-cloud intelligence, robotics, IoT, and sustainability features.  
 
-- [**TaxGenie Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/3dec4787a66f4a875485d2f2dd90ee028f88fdd0/TaxGenie.md)     
+- [**TaxGenie Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/2302d6b955ff39dae7f0aacf25139c196b7e4b4b/TaxGenie.md)  
   [https://roxanneardary.com/taxgenie/](https://roxanneardary.com/taxgenie/)   
-  An open-source, privacy-first tax intelligence platform powered by AxiomTaxAI that helps individuals and business owners understand, organize, and plan taxes year-round using encrypted AI-driven guidance.
+  An open-source, privacy-first tax intelligence platform powered by AxiomTaxAI that helps individuals and business owners understand, organize, and plan taxes year-round using encrypted AI-driven guidance.  
 
 - **TraceCommons**   
   [https://roxanneardary.com/tracecommons/](https://roxanneardary.com/tracecommons/)   
