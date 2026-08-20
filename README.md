@@ -205,7 +205,7 @@ NextSpark is a modular developer speed booster pack for Next.js that accelerates
   [https://roxanneardary.com/nixfiles/](https://roxanneardary.com/nixfiles/)   
   A reproducible multi-host system configuration using Nix Flakes to manage desktops, laptops, and servers from a single declarative source.  
 
-- [**OpenAudia Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/79d24a3a468248cedef0e53d51c0e1fe50bf835c/OpenAudia.md)     
+- [**OpenAudia Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c9d1f9d95f0965bd125e6f87eecf994b81a73c29/OpenAudia.md)  
   [https://roxanneardary.com/openaudia/](https://roxanneardary.com/openaudia/)   
   An open-source platform for ebooks, audiobooks, and music streaming that allows creators to upload, share, and discover digital media in a community-driven ecosystem.  
 
