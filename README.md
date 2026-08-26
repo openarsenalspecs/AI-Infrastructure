@@ -181,6 +181,10 @@ An open source, AGPL-3.0+ licensed visual commerce platform that uses AI-assiste
   [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)   
   An open-source, modular AI platform that recommends regenerative, locally sourced, climate-adaptive building materials based on geography, climate, and real-world supply chains.
 
+- [**LocalMind Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/7c0bc61fb49963028c5f678f1a2cc7c5cee0b169/LocalMind.md)  
+[https://roxanneardary.com/localmind/](https://roxanneardary.com/localmind/)  
+LocalMind is a modular, locally hosted AI platform designed for high-performance inference, adaptive optimization, evolving knowledge, and broad hardware compatibility. Its upgradeable architecture supports open source software, open hardware, local agents, and continuous innovation without requiring dependence on SaaS AI providers.
+
 - [**MedIQ Module Specficiation**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/111b053e9a673df0354c26ab558b1be50e7c74f1/MedIQ.md)     
   [https://roxanneardary.com/mediq/](https://roxanneardary.com/mediq/)   
   AI platform automating Medicaid-to-Medicare transitions with verification, fraud detection, and encryption.
