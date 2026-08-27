@@ -301,6 +301,10 @@ SentinelMesh is an AI governance specification for intelligent oversight of arti
   [https://roxanneardary.com/singularity/](https://roxanneardary.com/singularity/)   
   Universal SDK connecting developers to any API/LLM with standardized responses, auth, rate-limiting, and plugin support.
 
+- **SovereignMind**  
+[https://roxanneardary.com/sovereignmind/](https://roxanneardary.com/sovereignmind/)  
+SovereignMind is a sovereign, modular AI architecture that transforms specifications into optimized code, integrates new capabilities without disrupting existing functionality, and continuously evolves through learning, self-healing, optimization, and innovation discovery. Human-in-the-loop governance, source provenance, license enforcement, security, and operator control ensure that system evolution remains transparent, verifiable, reversible, and authorized.  
+
 - [**StrataAI Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/231356d267070929b81b4f09a43affefa934e435/StrataAI.md)     
   [https://roxanneardary.com/strataai/](https://roxanneardary.com/strataai/)   
   An open-source, modular AI system that analyzes global gemstone markets to generate transparent, data-driven fair market valuations using aggregated market data and machine learning.
