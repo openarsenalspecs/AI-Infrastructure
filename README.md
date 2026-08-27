@@ -301,7 +301,7 @@ SentinelMesh is an AI governance specification for intelligent oversight of arti
   [https://roxanneardary.com/singularity/](https://roxanneardary.com/singularity/)   
   Universal SDK connecting developers to any API/LLM with standardized responses, auth, rate-limiting, and plugin support.
 
-- **SovereignMind**  
+- [**SovereignMind Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/fbc2c9166f6bf74516831006fac8514c6ef1bc4d/SovereignMind.md)    
 [https://roxanneardary.com/sovereignmind/](https://roxanneardary.com/sovereignmind/)  
 SovereignMind is a sovereign, modular AI architecture that transforms specifications into optimized code, integrates new capabilities without disrupting existing functionality, and continuously evolves through learning, self-healing, optimization, and innovation discovery. Human-in-the-loop governance, source provenance, license enforcement, security, and operator control ensure that system evolution remains transparent, verifiable, reversible, and authorized.  
 
