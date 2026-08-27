@@ -41,9 +41,9 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/allpost/](https://roxanneardary.com/allpost/)   
   An open-source, self-hostable social publishing platform that lets users write once and publish across multiple social media networks. It uses a modular, plugin-based architecture.
 
-- **Aurea**   
+- [**Aurea Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/57af381a14e2967babdf0e950638898ccafbfd1d/Aurea.md)     
   [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)   
-  An open-source AI-powered security tool that detects and repairs malicious code, breaches, backdoors, and malware in infrastructure.
+  An open-source AI-powered security tool that detects and repairs malicious code, breaches, backdoors, and malware in infrastructure.  
 
 - [**BioFoundry Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/e81e3f304d6af2470b777325581b3060c3dfc4cf/BioFoundry.md)     
   [https://roxanneardary.com/biofoundry/](https://roxanneardary.com/biofoundry/)   
