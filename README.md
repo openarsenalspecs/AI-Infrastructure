@@ -317,6 +317,10 @@ SovereignMind is a sovereign, modular AI architecture that transforms specificat
   [https://roxanneardary.com/synchrofab/](https://roxanneardary.com/synchrofab/)   
   AI-driven smart factory platform integrating edge-cloud intelligence, robotics, IoT, and sustainability features.  
 
+- **Tax Accountability System**  
+[https://roxanneardary.com/tax-accountability-system/](https://roxanneardary.com/tax-accountability-system/)  
+Tax Accountability System is a modular specification for transparent, government-controlled property tax recovery, delinquency, redemption, foreclosure, forfeiture, and property disposition. It provides complete financial accountability and requires eligible excess proceeds to be distributed equally among primary homeowners within the jurisdiction.   
+
 - [**TaxGenie Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/2302d6b955ff39dae7f0aacf25139c196b7e4b4b/TaxGenie.md)  
   [https://roxanneardary.com/taxgenie/](https://roxanneardary.com/taxgenie/)   
   An open-source, privacy-first tax intelligence platform powered by AxiomTaxAI that helps individuals and business owners understand, organize, and plan taxes year-round using encrypted AI-driven guidance.  
