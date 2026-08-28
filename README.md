@@ -317,7 +317,7 @@ SovereignMind is a sovereign, modular AI architecture that transforms specificat
   [https://roxanneardary.com/synchrofab/](https://roxanneardary.com/synchrofab/)   
   AI-driven smart factory platform integrating edge-cloud intelligence, robotics, IoT, and sustainability features.  
 
-- **Tax Accountability System**  
+- [**Tax Accountability System Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/0e8a050bbbd92f0c016b77282bfd416ab22456cd/Tax%20Accountability%20System.md)    
 [https://roxanneardary.com/tax-accountability-system/](https://roxanneardary.com/tax-accountability-system/)  
 Tax Accountability System is a modular specification for transparent, government-controlled property tax recovery, delinquency, redemption, foreclosure, forfeiture, and property disposition. It provides complete financial accountability and requires eligible excess proceeds to be distributed equally among primary homeowners within the jurisdiction.   
 
