@@ -329,8 +329,8 @@ Tax Accountability System is a modular specification for transparent, government
   [https://roxanneardary.com/tracecommons/](https://roxanneardary.com/tracecommons/)   
   An open-source transparency and provenance infrastructure that uses Merkle-based logs and AI provenance tracking to create verifiable, tamper-evident digital records.
 
-- [**Transitio Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/769af76d8702241de656939cde46511a703b438e/Transitio.md)  
-[https://roxanneardary.com/transitio/](https://roxanneardary.com/transitio/)  
+- [**Transitio Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/769af76d8702241de656939cde46511a703b438e/Transitio.md)   
+[https://roxanneardary.com/transitio/](https://roxanneardary.com/transitio/)   
 Transitio is an open, vendor-neutral specification for securely transitioning from cloud computing to Edge AI through modular migration frameworks, hardware abstraction, and distributed intelligence. It enables organizations to modernize infrastructure while preserving security, interoperability, governance, and operational continuity.
 
 - [**The Transparent Food Project Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/629910039e0f1261cf8912499287d33cda6f1ff0/The%20Transparent%20Food%20Project.md)  
