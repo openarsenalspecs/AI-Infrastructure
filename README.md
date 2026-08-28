@@ -334,7 +334,7 @@ Tax Accountability System is a modular specification for transparent, government
 Transitio is an open, vendor-neutral specification for securely transitioning from cloud computing to Edge AI through modular migration frameworks, hardware abstraction, and distributed intelligence. It enables organizations to modernize infrastructure while preserving security, interoperability, governance, and operational continuity.
 
 - [**The Transparent Food Project Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/629910039e0f1261cf8912499287d33cda6f1ff0/The%20Transparent%20Food%20Project.md)  
-[https://roxanneardary.com/the-transparent-food-project/](https://roxanneardary.com/the-transparent-food-project/)
+[https://roxanneardary.com/the-transparent-food-project/](https://roxanneardary.com/the-transparent-food-project/)  
 The Transparent Food Project is an open-source specification that provides tools for tracing food supply chains, detecting hidden import pathways, and analyzing product origins through transparent data and explainable intelligence. Its modular architecture enables communities, developers, and organizations to build auditable food transparency systems without vendor lock-in.
 
 - [**TrustLens Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/b9c86a5a910cd8e04b398f10dc6d1dad24dcefcb/TrustLens.md)     
