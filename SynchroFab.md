@@ -1,6 +1,8 @@
 # SynchroFab Specification
+**Building Smarter Factories, One Line at a Time.**
+- HTML Mirror:  [https://roxanneardary.com/synchrofab-specification/](https://roxanneardary.com/synchrofab-specification/)  
 
-**Tagline:** *Building Smarter Factories, One Line at a Time.*
+---
 
 ## Overview
 
@@ -73,7 +75,7 @@ Provides communication between all systems.
 
 ---
 
-# Module Specification
+# Module Specifications
 
 ---
 
@@ -458,4 +460,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
