@@ -125,9 +125,9 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://roxanneardary.com/helmos/](https://roxanneardary.com/helmos/)   
   A modular, local-first AI agent operating layer that wraps existing agents with intent verification, human governance, trust management, workflow orchestration, and fully auditable execution.
 
-- **Horizon Runtime**   
+- [**Horizon Runtime Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c80400e9ca6fc49aede8b4b7e6d71c3df94209ee/Horizon%20Runtime.md)     
   [https://roxanneardary.com/horizon-runtime/](https://roxanneardary.com/horizon-runtime/)   
-  An AGPL-3.0+ universal AI runtime built for adaptive mixed-precision inference, reasoning models, multimodal workloads, and scalable open-source AI infrastructure across local, enterprise, and distributed environments.
+  An AGPL-3.0+ universal AI runtime built for adaptive mixed-precision inference, reasoning models, multimodal workloads, and scalable open-source AI infrastructure across local, enterprise, and distributed environments.  
 
 - [**HouseLens Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/0eb283570e66eaccbdd7d6944c78d14191c58980/HouseLens.md)      
   [https://roxanneardary.com/houselens/](https://roxanneardary.com/houselens/)   
