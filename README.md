@@ -313,7 +313,7 @@ SovereignMind is a sovereign, modular AI architecture that transforms specificat
   [https://roxanneardary.com/streamaxis/](https://roxanneardary.com/streamaxis/)   
   An open-source modular platform for gyroscopic motion control, screen casting, remote interaction, display management, and future holographic computing technologies. It is built to scale from personal devices to enterprise environments.  
 
-- [**SynchroFab Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/7924f72a3e2bf21b82a92270dc1bc6791d1bbf0f/SynchroFab.md)     
+- [**SynchroFab Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/e749cb596d98f46f20f467bb273bff69f3baaffe/SynchroFab.md)   
   [https://roxanneardary.com/synchrofab/](https://roxanneardary.com/synchrofab/)   
   AI-driven smart factory platform integrating edge-cloud intelligence, robotics, IoT, and sustainability features.  
 
