@@ -37,9 +37,9 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/axisjuris/](https://roxanneardary.com/axisjuris/)   
   A modular legal intelligence system that analyzes patent law, case law, and jurisdictional regulations. It uses a continuously updated, source-driven knowledge graph.
 
-- **AllPost**   
+- [**AllPost Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c1200e5d7ffd9cef2578a4983a509e87a2194789/AllPost.md)     
   [https://roxanneardary.com/allpost/](https://roxanneardary.com/allpost/)   
-  An open-source, self-hostable social publishing platform that lets users write once and publish across multiple social media networks. It uses a modular, plugin-based architecture.
+  An open-source, self-hostable social publishing platform that lets users write once and publish across multiple social media networks. It uses a modular, plugin-based architecture.  
 
 - [**Aurea Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/57af381a14e2967babdf0e950638898ccafbfd1d/Aurea.md)     
   [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)   
