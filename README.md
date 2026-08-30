@@ -33,7 +33,7 @@ The specification framework also prioritizes extensibility through open standard
   [https://roxanneardary.com/arq/](https://roxanneardary.com/arq/)   
   Machine intelligence system for understanding, modeling, and evolving software architecture as a living graph of modular structure and system behavior.
 
-- **Axis Juris Module Specification**   
+- [**Axis Juris Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/99cc0d4ecbbfb77a834f82b2f1f780980a69fc87/Axis%20Juris.md)     
   [https://roxanneardary.com/axisjuris/](https://roxanneardary.com/axisjuris/)   
 Axis Juris is an open-source, modular AI legal intelligence system specializing in U.S. patent law, patent applications, case law, legal research, and jurisdiction-aware legal analysis. It continuously monitors legal developments, provides source-backed analysis and cross-references, and alerts users to potential conflicts between their publications or intellectual property and applicable laws or precedents.
 
