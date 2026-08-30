@@ -85,9 +85,9 @@ CampGrid is a modular campground management specification connecting sites, rese
   [https://roxanneardary.com/clockwork/](https://roxanneardary.com/clockwork/)  
   ClockWork is an open-source, AGPL-3.0+ service orchestration platform that replaces commission-based systems with a transparent, hourly-based model for dispatching and delivering professional services. It combines fair routing, real-time scheduling, billing, and compliance tools to create a modular infrastructure for any industry.
 
-- **CodeClear**   
+- [**CodeClear Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/3cf5095bfc92aa1f493f7fdc2f19bc69efc5a20c/CodeClear.md)     
   [https://roxanneardary.com/codeclear/](https://roxanneardary.com/codeclear/)   
-  An open source AI platform that analyzes laws, detects validity and contradictions, and maps public funding for full governance transparency.
+  An open source AI platform that analyzes laws, detects validity and contradictions, and maps public funding for full governance transparency.  
 
 - [**CryptoGate Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/0c35c30834d7d03fc6e5a900e7104effca023e32/CryptoGate.md)    
   [https://roxanneardary.com/cryptogate/](https://roxanneardary.com/cryptogate/)   
