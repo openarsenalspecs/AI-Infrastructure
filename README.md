@@ -77,7 +77,7 @@ CampGrid is a modular campground management specification connecting sites, rese
   [https://roxanneardary.com/civicproof/](https://roxanneardary.com/civicproof/)   
   An open-source identity verification commons that enables cryptographic, AI-assisted proof of identity and documents without centralized control.
 
-- [**ClaimScout Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/73be03f96ec720b7889ed928d2d0a91665124a61/ClaimScout.md)     
+- [**ClaimScout Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/0f1f679645ce068584f41c566913d4b4bcf4d6f6/ClaimScout.md)   
   [https://roxanneardary.com/claimscout/](https://roxanneardary.com/claimscout/)   
   An open-source AI system that monitors repositories and online platforms to detect potential copyright infringements. It generates evidence-based DMCA-ready reports.  
 
