@@ -1,6 +1,8 @@
 # ClaimScout
-
 **The Scout for Your Intellectual Property**
+- HTML Mirror: [https://roxanneardary.com/claimscout-specification/](https://roxanneardary.com/claimscout-specification/)
+
+---
 
 ## Specification
 
@@ -27,6 +29,8 @@ ClaimScout must be designed around the following principles:
 - No unauthorized access to private systems or restricted content
 - No automatic submission of legal notices without explicit human authorization
 - Clear separation between factual findings and legal conclusions
+
+---
 
 ## Core System
 
@@ -586,6 +590,8 @@ Users must be able to:
 
 AI-generated conclusions must remain distinguishable from verified factual records.
 
+---
+
 ## Optional Plugin Modules
 
 ClaimScout must support an extensible plugin system so additional capabilities can be added without modifying the core architecture.
@@ -707,6 +713,8 @@ Optional plugins may support additional output formats and integrations for:
 - Spreadsheet systems
 - Evidence management systems
 - Reporting platforms
+
+---
 
 ## Matching and Confidence Framework
 
@@ -885,4 +893,4 @@ Please note the following:
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
