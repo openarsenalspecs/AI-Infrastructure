@@ -157,9 +157,9 @@ FoodMesh is an open-source, modular logistics specification that connects farmer
   [https://gitlab.com/Roxanne_Ardary/launchcraft](https://gitlab.com/Roxanne_Ardary/launchcraft)   
   An AI-powered system that turns user skills into validated home-based business opportunities with structured, step-by-step execution plans.  
 
-- **LexChangeFeed**   
+- [**LexChangeFeed Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/cce003683cbab00821ee87309f04baedee1ec372/LexChangeFeed.md)     
   [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)   
-  The infrastructure for monitoring evolving law, providing real-time legal intelligence, citation-backed analysis, and jurisdiction-aware tracking of copyright law changes.
+  The infrastructure for monitoring evolving law, providing real-time legal intelligence, citation-backed analysis, and jurisdiction-aware tracking of copyright law changes.  
 
 - [**LexiTown Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/b749e247c41edeeb747e622c0117fd93fad42aea/LexiTown.md)     
   [https://roxanneardary.com/lexitown/](https://roxanneardary.com/lexitown/)   
