@@ -19,6 +19,26 @@ AI Infrastructure specifications define a modular, interoperable stack of open-s
 
 The specification framework also prioritizes extensibility through open standards, allowing organizations to integrate custom modules, domain-specific logic, and third-party services without vendor lock-in. To support broader adoption in commercial or embedded contexts, a Specification Branding License can be negotiated for deployments requiring attribution-free usage under defined terms. This provides a structured pathway for enterprises to utilize the infrastructure while aligning with licensing, branding, and compliance requirements at scale.
 
+---
+
+### Specification FAQs
+
+**The Open Arsenal specifications are designed as foundations, not disposable products.** They define reusable architectures that can be implemented, extended, combined, modified, and adapted to changing technologies and real-world requirements. Modular design allows individual capabilities to evolve without forcing an entire system to be replaced, while vendor-neutral architecture helps preserve independence and interoperability.
+
+**Long-term infrastructure requires long-term thinking.** Open-source licensing encourages examination, reuse, modification, and collaboration, while perpetual commercial licensing can provide organizations with lasting rights to deploy a specification without making foundational infrastructure dependent on recurring licensing renewals. The objective is to create technological foundations that can remain useful as companies, technologies, platforms, and business models change.
+
+1. [Understanding the Specifications](https://roxanneardary.com/understanding-the-specifications/)
+2. [How the Specifications Are Designed](https://roxanneardary.com/how-the-specifications-are-designed/)
+3. [Building From a Specification](https://roxanneardary.com/building-from-a-specification/)
+4. [Why Modularity Matters for the Future](https://roxanneardary.com/why-modularity-matters-for-the-future/)
+5. [Interoperability and Independence](https://roxanneardary.com/interoperability-and-independence/)
+6. [Open Source and Licensing](https://roxanneardary.com/open-source-and-licensing/)
+7. [Perpetual Licensing](https://roxanneardary.com/perpetual-licensing/)
+8. [The Bigger Vision](https://roxanneardary.com/the-bigger-vision/)
+9. [Specification Branding License](https://roxanneardary.com/specification-branding-license/)
+
+---
+
 ## AI Infrastructure Specs
 
 - [**ActionCheck Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/7d053f7945e35277351de589fe750d07d4867b4a/ActionCheck.md)    
